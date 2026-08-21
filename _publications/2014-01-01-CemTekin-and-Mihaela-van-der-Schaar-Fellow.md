@@ -1,5 +1,7 @@
 ---
 title: "Online Learning in Large-scale Contextual Recommender Systems"
+collection: publications
+category: manuscripts
 authors:
   - "Song, Linqi"
   - "Tekin, Cem"
