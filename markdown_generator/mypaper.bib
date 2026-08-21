@@ -56,9 +56,15 @@
   organization={IEEE}
 }
 
-@article{xupersonalized,
-  title={Personalized Active Learning for Activity Classification in Wireless Health},
-  author={Xu, Jie and Song, Linqi and van der Schaar, Mihaela and Xu, James Y and Pottie, Gregory J}
+@article{xu2016personalized,
+  title={Personalized active learning for activity classification using wireless wearable sensors},
+  author={Xu, Jie and Song, Linqi and Xu, James Y and Pottie, Gregory J and Van Der Schaar, Mihaela},
+  journal={IEEE journal of selected topics in signal processing},
+  volume={10},
+  number={5},
+  pages={865--876},
+  year={2016},
+  publisher={IEEE}
 }
 
 @article{song2015using,
@@ -84,17 +90,6 @@
   author={Song, Linqi and Fragouli, Christina},
   journal={arXiv preprint arXiv:1601.05516},
   year={2016}
-}
-
-@article{xu2016personalized,
-  title={Personalized active learning for activity classification using wireless wearable sensors},
-  author={Xu, Jie and Song, Linqi and Xu, James Y and Pottie, Gregory J and Van Der Schaar, Mihaela},
-  journal={IEEE journal of selected topics in signal processing},
-  volume={10},
-  number={5},
-  pages={865--876},
-  year={2016},
-  publisher={IEEE}
 }
 
 @article{song2016stream,
@@ -414,11 +409,6 @@
   pages={161--166},
   year={2020},
   organization={IEEE}
-}
-
-@article{liintelligent,
-  title={Intelligent and Converged Networks},
-  author={Li, Tan and Li, Congduan and Luo, Jingjing and Song, Linqi and Bouras, Mohammed Amine and Farha, Fadi and Ning, Huansheng}
 }
 
 @article{linqi2017content,
@@ -866,14 +856,6 @@
   publisher={Pergamon}
 }
 
-@inproceedings{mingyang2022speech,
-  title={Speech Emotion Recognition Based on Deep Learning},
-  author={Mingyang, LIU and Yaxin, KE and Wei, SHAO and Linqi, SONG and others},
-  booktitle={2022 IEEE Region 10 Conference (TENCON 2022): Tech-Biz Intelligence},
-  year={2022},
-  organization={IEEE}
-}
-
 @inproceedings{liu2022federated,
   title={Federated multi-armed bandits with vector rewards for aspect-based recommendations},
   author={Liu, Zengyan and Song, Linqi and Fragouli, Christina},
@@ -1006,19 +988,21 @@
   year={2023}
 }
 
-@article{sichun2023training,
+@article{sichun2023training2,
   title={Training And/Or Operating Graph Neural Network Based Recommendation System},
   author={Sichun, LUO and Linqi, SONG},
   year={2023}
 }
 
 @inproceedings{zhou2024solving,
-  title={Solving challenging math word problems using gpt-4 code interpreter with code-based self-verification},
-  author={Zhou, Aojun and Wang, Ke and Lu, Zimu and Shi, Weikang and Luo, Sichun and Qin, Zipeng and Lu, Shaoqing and Jia, Anya and Song, Linqi and Zhan, Mingjie and others},
-  booktitle={International Conference on Learning Representations},
-  volume={2024},
-  pages={4468--4494},
-  year={2024}
+ author = {Zhou, Aojun and Wang, Ke and Lu, Zimu and Shi, Weikang and Luo, Sichun and Qin, Zipeng and Lu, Shaoqing and Jia, Anya and Song, Linqi and Zhan, Mingjie and Li, Hongsheng},
+ booktitle = {International Conference on Learning Representations},
+ editor = {B. Kim and Y. Yue and S. Chaudhuri and K. Fragkiadaki and M. Khan and Y. Sun},
+ pages = {4468--4494},
+ title = {Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification},
+ url = {https://proceedings.iclr.cc/paper_files/paper/2024/file/12c45a68e8433b21b91cd47731387fa4-Paper-Conference.pdf},
+ volume = {2024},
+ year = {2024}
 }
 
 @article{zhang2023crossvision,
@@ -1142,14 +1126,23 @@
 }
 
 @article{luo2025recranker,
-  title={Recranker: Instruction tuning large language model as ranker for top-k recommendation},
-  author={Luo, Sichun and He, Bowei and Zhao, Haohan and Shao, Wei and Qi, Yanlin and Huang, Yinya and Zhou, Aojun and Yao, Yuxuan and Li, Zongpeng and Xiao, Yuanzhang and others},
-  journal={ACM Transactions on Information Systems},
-  volume={43},
-  number={5},
-  pages={1--31},
-  year={2025},
-  publisher={ACM New York, NY}
+author = {Luo, Sichun and He, Bowei and Zhao, Haohan and Shao, Wei and Qi, Yanlin and Huang, Yinya and Zhou, Aojun and Yao, Yuxuan and Li, Zongpeng and Xiao, Yuanzhang and Zhan, Mingjie and Song, Linqi},
+title = {RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation},
+year = {2025},
+issue_date = {September 2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {43},
+number = {5},
+issn = {1046-8188},
+url = {https://doi.org/10.1145/3705728},
+doi = {10.1145/3705728},
+abstract = {Large language models (LLMs) have demonstrated remarkable capabilities and have been extensively deployed across various domains, including recommender systems. Prior research has employed specialized prompts to leverage the in-context learning capabilities of LLMs for recommendation purposes. More recent studies have utilized instruction tuning techniques to align LLMs with human preferences, promising more effective recommendations. However, existing methods suffer from several limitations. The full potential of LLMs is not fully elicited due to low-quality tuning data and the overlooked integration of conventional recommender signals. Furthermore, LLMs may generate inconsistent responses for different ranking tasks in the recommendation, potentially leading to unreliable results.In this article, we introduce Ranker for top-k Recommendations (RecRanker), tailored for instruction tuning LLMs to serve as the Ranker for top-k Recommendations. Specifically, we introduce importance-aware sampling, clustering-based sampling, and penalty for repetitive sampling for sampling high-quality, representative, and diverse training data. To enhance the prompt, we introduce a position shifting strategy to mitigate position bias and augment the prompt with auxiliary information from conventional recommendation models, thereby enriching the contextual understanding of the LLM. Subsequently, we utilize the sampled data to assemble an instruction-tuning dataset with the augmented prompts comprising three distinct ranking tasks: pointwise, pairwise, and listwise rankings. We further propose a hybrid ranking method to enhance the model performance by ensembling these ranking tasks. Our empirical evaluations demonstrate the effectiveness of our proposed RecRanker in both direct and sequential recommendation scenarios.1},
+journal = {ACM Transactions on Information Systems},
+month = jul,
+articleno = {113},
+numpages = {31},
+keywords = {Recommender System, Large Language Model, Instruction Tuning, Ranking}
 }
 
 @misc{luo2026federated,
@@ -1173,7 +1166,7 @@
 
 @article{luo2026integrating,
   title={Integrating large language models into recommendation via mutual augmentation and adaptive aggregation},
-  author={Luo, Sichun and Yao, Yuxuan and He, Bowei and Shao, Wei and Xu, Jian and Huang, Yinya and Zhou, Aojun and Zhang, Xinyi and Xiao, Yuanzhang and Hou, Hanxu and others},
+  author={Luo, Sichun and Yao, Yuxuan and He, Bowei and Shao, Wei and Xu, Jian and Huang, Yinya and Zhou, Aojun and Zhang, Xinyi and Xiao, Yuanzhang and Hou, Hanxu and Zhan, Mingjie and Song, Linqi},
   journal={IEEE Journal of Selected Topics in Signal Processing},
   year={2026},
   publisher={IEEE}
@@ -1215,12 +1208,6 @@
   organization={IEEE}
 }
 
-@article{yan2024towards,
-  title={Towards quantum-safe federated learning via homomorphic encryption: Learning with gradients},
-  author={Yan, Guangfeng and Lyu, Shanxiang and Hou, Hanxu and Zheng, Zhiyong and Song, Linqi},
-  journal={arXiv preprint arXiv:2402.01154},
-  year={2024}
-}
 
 @inproceedings{yan2024truncated,
   title={Truncated Non-Uniform quantization for distributed SGD},
@@ -1263,11 +1250,6 @@
   pages={3430--3443},
   year={2023},
   publisher={IEEE}
-}
-
-@article{lipla,
-  title={pla orm system Wireless recommendations for internet of vehicles: Recent advances, challenges, and opportunities Intelligent cognitive spectrum collaboration: convergence of},
-  author={Li, Tan and Li, Congduan and Luo, Jingjing and Song, Linqi}
 }
 
 @inproceedings{luo2023framework,
@@ -1344,11 +1326,6 @@
   year={2024}
 }
 
-@article{wangmathcoder,
-  title={MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning By admin No Comments},
-  author={Wang, Ke and Ren, Houxing and Zhou, Aojun and Lu, Zimu and Luo, Sichun and Shi, Weikang and Zhang, Renrui and Song, Linqi and Zhan, Mingjie and Li, Hongsheng}
-}
-
 @inproceedings{liu2024reed,
   title={Reed-Solomon codes over cyclic polynomial ring with lower encoding/decoding complexity},
   author={Liu, Wenhao and Jiang, Zhengyi and Huang, Zhongyi and Song, Linqi and Hou, Hanxu},
@@ -1367,15 +1344,9 @@
   organization={IEEE}
 }
 
-@article{sichun2024基於數據增強和對比學習的長尾排序學習,
-  title={​ 基於數據增強和對比學習的長尾排序學習​},
-  author={Sichun, LUO and Linqi, SONG},
-  year={2024}
-}
-
 @article{luo2024privacy,
   title={Privacy in LLM-based recommendation: Recent advances and future directions},
-  author={Luo, Sichun and Shao, Wei and Yao, Yuxuan and Xu, Jian and Liu, Mingyang and Li, Qintong and He, Bowei and Wang, Maolin and Deng, Guanzhi and Hou, Hanxu and others},
+  author={Luo, Sichun and Shao, Wei and Yao, Yuxuan and Xu, Jian and Liu, Mingyang and Li, Qintong and He, Bowei and Wang, Maolin and Deng, Guanzhi and Hou, Hanxu and Zhang, Xinyi and Song, Linqi},
   journal={arXiv preprint arXiv:2406.01363},
   year={2024}
 }
@@ -1502,27 +1473,7 @@
   year={2024}
 }
 
-@article{zhou2023solving,
-  title={Solving challenging math word problems using GPT-4 code interpreter with code-based self-verification. arxiv: abs/2308.07921},
-  author={Zhou, Aojun and Wang, Ke and Lu, Zimu and Shi, Weikang and Luo, Sichun and Qin, Zipeng and Lu, Shaoqing and Jia, Anya and Song, Linqi and Zhan, Mingjie and others},
-  journal={arXiv preprint arXiv:2308.07921},
-  year={2023}
-}
 
-@article{zhou2308solving,
-  title={Solving challenging math word problems using gpt-4 code interpreter with code-based self-verification, 2023},
-  author={Zhou, Aojun and Wang, Ke and Lu, Zimu and Shi, Weikang and Luo, Sichun and Qin, Zipeng and Lu, Shaoqing and Jia, Anya and Song, Linqi and Zhan, Mingjie and others},
-  journal={URL https://arxiv. org/abs/2308.07921}
-}
-
-@article{yang2024iresnetdm,
-  title={iResNetDM: interpretable and comprehensive deep learning model for 4 types of DNA modifications prediction},
-  author={Yang, Zerui and Shao, Wei and Matsuda, Yudai and Song, Linqi},
-  journal={bioRxiv},
-  pages={2024--05},
-  year={2024},
-  publisher={Cold Spring Harbor Laboratory}
-}
 
 @article{jiang2025error,
   title={Error correction decoding algorithms of RS codes based on an earlier termination algorithm to find the error locator polynomial},
@@ -1871,13 +1822,16 @@
 }
 
 @inproceedings{jiang2025unlocking,
-  title={Unlocking the power of function vectors for characterizing and mitigating catastrophic forgetting in continual instruction tuning},
-  author={Jiang, Gangwei and Li, Zhaoyi and Xue, Siqiao and ZHOU, JUN and Song, Linqi and Lian, Defu and Wei, Ying and others},
-  booktitle={International Conference on Learning Representations},
-  volume={2025},
-  pages={47218--47243},
-  year={2025}
+ author = {Jiang, Gangwei and jiang, caigao and Li, Zhaoyi and Xue, Siqiao and ZHOU, JUN and Song, Linqi and Lian, Defu and Wei, Ying},
+ booktitle = {International Conference on Learning Representations},
+ editor = {Y. Yue and A. Garg and N. Peng and F. Sha and R. Yu},
+ pages = {47218--47243},
+ title = {Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning},
+ url = {https://proceedings.iclr.cc/paper_files/paper/2025/file/74fc5575632191d96881d8015f79dde3-Paper-Conference.pdf},
+ volume = {2025},
+ year = {2025}
 }
+
 
 @article{ling2025communication,
   title={Communication-Efficient and Privacy-Adaptable Mechanism for Federated Learning},
@@ -1970,11 +1924,30 @@
 }
 
 @inproceedings{tan2024proxyqa,
-  title={Proxyqa: An alternative framework for evaluating long-form text generation with large language models},
-  author={Tan, Haochen and Guo, Zhijiang and Shi, Zhan and Xu, Lu and Liu, Zhili and Feng, Yunlong and Li, Xiaoguang and Wang, Yasheng and Shang, Lifeng and Liu, Qun and others},
-  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
-  pages={6806--6827},
-  year={2024}
+    title = "{P}roxy{QA}: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models",
+    author = "Tan, Haochen  and
+      Guo, Zhijiang  and
+      Shi, Zhan  and
+      Xu, Lu  and
+      Liu, Zhili  and
+      Feng, Yunlong  and
+      Li, Xiaoguang  and
+      Wang, Yasheng  and
+      Shang, Lifeng  and
+      Liu, Qun  and
+      Song, Linqi",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.368/",
+    doi = "10.18653/v1/2024.acl-long.368",
+    pages = "6806--6827",
+    abstract = "Large Language Models (LLMs) have succeeded remarkably in understanding long-form contents. However, exploring their capability for generating long-form contents, such as reports and articles, has been relatively unexplored and inadequately assessed by existing benchmarks. The prevalent evaluation methods, which predominantly rely on crowdsourcing, are recognized for their labor-intensive nature and lack of efficiency, whereas automated metrics, such as the ROUGE score, demonstrate discordance with human judgment criteria. In this paper, we propose ProxyQA, an innovative framework dedicated to assessing long-text generation. ProxyQA comprises in-depth human-curated meta-questions spanning various domains, each accompanied by specific proxy-questions with pre-annotated answers. LLMs are tasked to generate extensive content in response to these meta-questions, by engaging an evaluator and incorporating the generated texts as contextual background, ProxyQA assesses the generated content{'}s quality through the evaluator{'}s accuracy in addressing the proxy-questions. We examine multiple LLMs, emphasizing ProxyQA{'}s demanding nature as a high-quality assessment tool. Human evaluation demonstrates that the proxy-question method is notably self-consistent and aligns closely with human evaluative standards. The dataset and leaderboard is available at \url{https://proxy-qa.com}."
 }
 
 @inproceedings{lin2024mope,
@@ -2117,7 +2090,7 @@
   author={Qian, Zekun and Han, Ruize and Hou, Junhui and Song, Linqi and Feng, Wei}
 }
 
-@article{wang2025low,
+@article{wang2025low2,
   title={Low-complexity ordered statistic decoding algorithm based on skipping mechanisms},
   author={Wang, Qianfan and GUO, Yangeng and SONG, Linqi and MA, Xiao},
   journal={电子与信息学报},
@@ -2157,12 +2130,6 @@
   publisher={IEEE}
 }
 
-@article{zhou1others,
-  title={others. 2023. Solving challenging math word problems using gpt-4 code interpreter with code-based self-verification},
-  author={Zhou, Aojun and Wang, Ke and Lu, Zimu and Shi, Weikang and Luo, Sichun and Qin, Zipeng and Lu, Shaoqing and Jia, Anya and Song, Linqi and Zhan, Mingjie},
-  journal={arXiv preprint arXiv:2308.07921},
-  year={1}
-}
 
 @article{sichun2024用於訓練基於神經網絡的排序模型的計算機實現方法和系統,
   title={用於訓練基於神經網絡的排序模型的計算機實現方法和系統},
@@ -2204,14 +2171,6 @@
   title={A UCB Bandit Algorithm for General ML-Based Estimators},
   author={Liu, Yajing and Bao, Erkao and Song, Linqi},
   journal={arXiv preprint arXiv:2601.01061},
-  year={2026}
-}
-
-@article{deng2026dr,
-  title={Dr-lora: Dynamic rank lora for mixture-of-experts adaptation},
-  author={Deng, Guanzhi and Li, Bo and Chen, Ronghao and Wang, Huacan and Song, Linqi and Wen, Lijie},
-  journal={arXiv e-prints},
-  pages={arXiv--2601},
   year={2026}
 }
 
@@ -2279,7 +2238,7 @@
 
 @article{yao2026merging,
   title={Merging Beyond: Streaming LLM Updates via Activation-Guided Rotations},
-  author={Yao, Yuxuan and Sheng, Haonan and Lv, Qingsong and Wu, Han and Liu, Shuqi and Liu, Zehua and Liu, Zengyan and Gao, Jiahui and Tan, Haochen and Fu, Xiaojin and others},
+  author={Yao, Yuxuan and Sheng, Haonan and Lv, Qingsong and Wu, Han and Liu, Shuqi and Liu, Zehua and Liu, Zengyan and Gao, Jiahui and Tan, Haochen and Fu, Xiaojin and and Bai, Haoli and So, Hing Cheung and Guo, Zhijiang and Song, Linqi},
   journal={arXiv preprint arXiv:2602.03237},
   year={2026}
 }
@@ -2367,7 +2326,7 @@
 
 @article{jian2026forge,
   title={FORGE: Fine-grained multimodal evaluation for manufacturing scenarios},
-  author={Jian, Xiangru and Xu, Hao and Pang, Wei and Zhao, Xinjian and Tao, Chengyu and Zhang, Qixin and Zhang, Xikun and Zhang, Chao and Deng, Guanzhi and Xue, Alex and others},
+  author={Jian, Xiangru and Xu, Hao and Pang, Wei and Zhao, Xinjian and Tao, Chengyu and Zhang, Qixin and Zhang, Xikun and Zhang, Chao and Deng, Guanzhi and Xue, Alex and Du, Juan and Yu, Tianshu and Tarr, Garth and Song, Linqi and Sun, Qiuzhuang and Tao, Dacheng},
   journal={arXiv preprint arXiv:2604.07413},
   year={2026}
 }
@@ -2394,7 +2353,7 @@
 
 @article{li2026learning,
   title={Learning to Reason with Insight for Informal Theorem Proving},
-  author={Li, Yunhe and Shi, Hao and Deng, Bowen and Wang, Wei and Ruan, Mengzhe and Hou, Hanxu and Dai, Zhongxiang and Gao, Siyang and Wang, Chao and Qiu, Shuang and others},
+  author={Li, Yunhe and Shi, Hao and Deng, Bowen and Wang, Wei and Ruan, Mengzhe and Hou, Hanxu and Dai, Zhongxiang and Gao, Siyang and Wang, Chao and Qiu, Shuang and Song, Linqi},
   journal={arXiv preprint arXiv:2604.16278},
   year={2026}
 }
@@ -2569,7 +2528,7 @@
   publisher={Elsevier}
 }
 
-@article{wang2026gaussian,
+@article{wang2026gaussian2,
   title={Gaussian-Elimination-Free Ordered Statistics Decoding via Pre-Stored Systematic Matrices},
   author={Wang, Yiwen and Wang, Qianfan and Zheng, Xiangping and Song, Linqi and Ma, Xiao},
   journal={IEEE Transactions on Communications},
@@ -2611,7 +2570,7 @@
   year={2026}
 }
 
-@article{wang2026gaussian,
+@article{wang2026gaussian3,
   title={Gaussian-Elimination-Free BP-OSD Algorithm for Short 5G LDPC Codes},
   author={Wang, Qianfan and Wang, Yiwen and Yang, Jiayi and Song, Linqi and Ma, Xiao},
   journal={IEEE Transactions on Communications},
