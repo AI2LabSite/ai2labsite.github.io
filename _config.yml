@@ -24,13 +24,13 @@ repository               : "ai2labsite/ai2labsite.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "he/his"  
+  name             : "Linqi Song"
+  pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Yeung Kin Man Academic Building, Y6415, City University of Hong Kong"
+  employer         : "City University of Hong Kong"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "linqi.song@cityu.edu.hk" 
 
   # Academic websites
   academia         : # URL
