@@ -1,8 +1,9 @@
 {% assign post = include.post %}
+{% assign counter = include.counter | default: forloop.index %}
 
-<div class="archive__item" data-category="{{ post.category }}">
+<div class="archive__item">
   <p>
-    <span class="pub-number"></span>
+    [{{ counter }}] 
     {% if post.paperurl %}
       <a href="{{ post.paperurl }}">{{ post.citation | default: post.title }}</a>
     {% else %}
