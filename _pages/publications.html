@@ -35,7 +35,8 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html counter=counter %}
+      <!-- 修正：加上 with 关键字 -->
+      {% include archive-single.html with counter=counter %}
       {% assign counter = counter | minus: 1 %}
     {% endfor %}
   {% endfor %}
@@ -44,7 +45,8 @@ author_profile: true
   {% assign total_count = site.publications | size %}
   {% assign counter = total_count %}
   {% for post in sorted_pubs %}
-    {% include archive-single.html counter=counter %}
+    <!-- 修正：加上 with 关键字 -->
+    {% include archive-single.html with counter=counter %}
     {% assign counter = counter | minus: 1 %}
   {% endfor %}
 {% endif %}
