@@ -16,6 +16,17 @@ author_profile: true
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
+    
+    <!-- 计算当前分类的总数 -->
+    {% assign total_count = 0 %}
+    {% for post in sorted_pubs %}
+      {% if post.category == category[0] %}
+        {% assign total_count = total_count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    
+    <!-- 从总数开始递减编号 -->
+    {% assign counter = total_count %}
     {% for post in sorted_pubs %}
       {% if post.category != category[0] %}
         {% continue %}
@@ -24,12 +35,16 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% include archive-single.html counter=counter %}
+      {% assign counter = counter | minus: 1 %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
+  {% assign total_count = site.publications | size %}
+  {% assign counter = total_count %}
   {% for post in sorted_pubs %}
-    {% include archive-single.html %}
+    {% include archive-single.html counter=counter %}
+    {% assign counter = counter | minus: 1 %}
   {% endfor %}
 {% endif %}
