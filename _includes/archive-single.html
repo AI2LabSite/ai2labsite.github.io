@@ -1,5 +1,5 @@
 {% assign post = include.post %}
-{% assign counter = forloop.index | plus: 0 %}
+{% assign counter = include.counter | default: forloop.index %}
 
 <div class="archive__item">
   <p>
