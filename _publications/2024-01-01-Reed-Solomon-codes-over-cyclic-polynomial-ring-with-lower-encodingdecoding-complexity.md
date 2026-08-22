@@ -1,7 +1,7 @@
 ---
 title: "Reed-Solomon codes over cyclic polynomial ring with lower encoding/decoding complexity"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2024-01-01-Reed-Solomon-codes-over-cyclic-polynomial-ring-with-lower-encodingdecoding-complexity
 date: 2024-01-01
 venue: 'In the proceedings of 2024 IEEE International Symposium on Information Theory (ISIT)'

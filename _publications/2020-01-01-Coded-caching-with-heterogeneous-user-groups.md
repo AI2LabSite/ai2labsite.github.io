@@ -1,7 +1,7 @@
 ---
 title: "Coded caching with heterogeneous user groups"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2020-01-01-Coded-caching-with-heterogeneous-user-groups
 date: 2020-01-01
 venue: 'In the proceedings of 2020 IEEE Wireless Communications and Networking Conference Workshops (WCNCW)'

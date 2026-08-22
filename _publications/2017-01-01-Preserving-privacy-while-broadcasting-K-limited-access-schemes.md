@@ -1,7 +1,7 @@
 ---
 title: "Preserving privacy while broadcasting: K-limited-access schemes"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2017-01-01-Preserving-privacy-while-broadcasting-K-limited-access-schemes
 date: 2017-01-01
 venue: 'In the proceedings of 2017 IEEE Information Theory Workshop (ITW)'

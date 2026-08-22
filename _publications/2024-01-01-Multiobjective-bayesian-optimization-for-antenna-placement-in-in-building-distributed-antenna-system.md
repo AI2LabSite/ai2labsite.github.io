@@ -1,7 +1,7 @@
 ---
 title: "Multiobjective bayesian optimization for antenna placement in in-building distributed antenna system"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2024-01-01-Multiobjective-bayesian-optimization-for-antenna-placement-in-in-building-distributed-antenna-system
 date: 2024-01-01
 venue: 'In the proceedings of 2024 IEEE Congress on Evolutionary Computation (CEC)'

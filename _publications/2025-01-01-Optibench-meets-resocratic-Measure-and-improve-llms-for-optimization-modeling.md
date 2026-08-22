@@ -1,7 +1,7 @@
 ---
 title: "Optibench meets resocratic: Measure and improve llms for optimization modeling"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2025-01-01-Optibench-meets-resocratic-Measure-and-improve-llms-for-optimization-modeling
 date: 2025-01-01
 venue: 'In the proceedings of International Conference on Learning Representations'

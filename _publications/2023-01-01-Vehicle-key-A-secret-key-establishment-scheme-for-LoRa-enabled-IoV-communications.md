@@ -1,7 +1,7 @@
 ---
 title: "Vehicle-key: A secret key establishment scheme for LoRa-enabled IoV communications"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2023-01-01-Vehicle-key-A-secret-key-establishment-scheme-for-LoRa-enabled-IoV-communications
 date: 2023-01-01
 venue: 'In the proceedings of Proceedings of the ACM Turing Award Celebration Conference-China 2023'

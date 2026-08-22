@@ -1,7 +1,7 @@
 ---
 title: "Generalizing the Outage Minimization Problem in Wireless Random Caching: An Alpha Utility Perspective for Managing Content Popularity-QoS Disparity"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2026-01-01-Generalizing-the-Outage-Minimization-Problem-in-Wireless-Random-Caching-An-Alpha-Utility-Perspective-for-Managing-Content-Popularity-QoS-Disparity
 date: 2026-01-01
 venue: 'In the proceedings of 2026 IEEE Wireless Communications and Networking Conference (WCNC)'

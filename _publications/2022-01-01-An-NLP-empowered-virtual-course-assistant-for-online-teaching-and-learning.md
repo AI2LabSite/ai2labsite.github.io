@@ -1,7 +1,7 @@
 ---
 title: "An NLP-empowered virtual course assistant for online teaching and learning"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2022-01-01-An-NLP-empowered-virtual-course-assistant-for-online-teaching-and-learning
 date: 2022-01-01
 venue: 'In the proceedings of 2022 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE)'

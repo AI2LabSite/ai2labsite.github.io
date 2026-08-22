@@ -1,7 +1,7 @@
 ---
 title: "Active learning for streaming data in a contextual bandit framework"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2019-01-01-Active-learning-for-streaming-data-in-a-contextual-bandit-framework
 date: 2019-01-01
 venue: 'In the proceedings of Proceedings of the 2019 5th International Conference on Computing and Data Engineering'

@@ -1,7 +1,7 @@
 ---
 title: "Reduced-complexity guessing codeword decoding of BCH codes with most reliable cyclic basis"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2025-01-01-Reduced-complexity-guessing-codeword-decoding-of-BCH-codes-with-most-reliable-cyclic-basis
 date: 2025-01-01
 venue: 'In the proceedings of GLOBECOM 2025-2025 IEEE Global Communications Conference'

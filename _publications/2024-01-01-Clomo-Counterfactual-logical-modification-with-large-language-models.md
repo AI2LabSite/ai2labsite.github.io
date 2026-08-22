@@ -1,7 +1,7 @@
 ---
 title: "Clomo: Counterfactual logical modification with large language models"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2024-01-01-Clomo-Counterfactual-logical-modification-with-large-language-models
 date: 2024-01-01
 venue: 'In the proceedings of Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)'

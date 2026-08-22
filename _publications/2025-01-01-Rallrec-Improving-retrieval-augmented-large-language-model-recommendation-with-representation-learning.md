@@ -1,7 +1,7 @@
 ---
 title: "Rallrec: Improving retrieval augmented large language model recommendation with representation learning"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2025-01-01-Rallrec-Improving-retrieval-augmented-large-language-model-recommendation-with-representation-learning
 date: 2025-01-01
 venue: 'In the proceedings of Companion Proceedings of the ACM on Web Conference 2025'

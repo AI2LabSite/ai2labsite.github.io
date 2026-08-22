@@ -1,7 +1,7 @@
 ---
 title: "Racial Bias During “Black Lives Matter”: How Social Movement Reshapes Airbnb Host Performance"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2021-01-01-Racial-Bias-During-Black-Lives-Matter-How-Social-Movement-Reshapes-Airbnb-Host-Performance
 date: 2021-01-01
 venue: 'In the proceedings of International Conference on Information Systems'

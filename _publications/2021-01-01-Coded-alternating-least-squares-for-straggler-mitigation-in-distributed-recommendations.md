@@ -1,7 +1,7 @@
 ---
 title: "Coded alternating least squares for straggler mitigation in distributed recommendations"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2021-01-01-Coded-alternating-least-squares-for-straggler-mitigation-in-distributed-recommendations
 date: 2021-01-01
 venue: 'In the proceedings of 2021 IEEE International Symposium on Information Theory (ISIT)'

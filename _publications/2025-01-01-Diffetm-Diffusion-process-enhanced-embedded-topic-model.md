@@ -1,7 +1,7 @@
 ---
 title: "Diffetm: Diffusion process enhanced embedded topic model"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2025-01-01-Diffetm-Diffusion-process-enhanced-embedded-topic-model
 date: 2025-01-01
 venue: 'In the proceedings of ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'

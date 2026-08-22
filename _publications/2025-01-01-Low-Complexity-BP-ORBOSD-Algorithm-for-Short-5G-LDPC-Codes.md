@@ -1,7 +1,7 @@
 ---
 title: "Low-Complexity BP-ORBOSD Algorithm for Short 5G LDPC Codes"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2025-01-01-Low-Complexity-BP-ORBOSD-Algorithm-for-Short-5G-LDPC-Codes
 date: 2025-01-01
 venue: 'In the proceedings of 2025 IEEE/CIC International Conference on Communications in China (ICCC Workshops)'

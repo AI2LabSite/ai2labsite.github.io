@@ -1,7 +1,7 @@
 ---
 title: "Communication-Efficient Multi-Modal Federated Learning via Dynamic Client-Modality Matching"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2024-01-01-Communication-Efficient-Multi-Modal-Federated-Learning-via-Dynamic-Client-Modality-Matching
 date: 2024-01-01
 venue: 'In the proceedings of 2024 IEEE International Conference on Big Data (BigData)'

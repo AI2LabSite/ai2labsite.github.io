@@ -1,7 +1,7 @@
 ---
 title: "Resu: A Regularized and Non-monotonic Activation Function for Convolution Neural Network"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2026-01-01-Resu-A-Regularized-and-Non-monotonic-Activation-Function-for-Convolution-Neural-Network
 date: 2026-01-01
 venue: 'In the proceedings of International Conference on Data Mining and Big Data'

@@ -1,7 +1,7 @@
 ---
 title: "Fast Erasure Decoding of Reed-Solomon Codes Based on Decomposition of Vandermonde Matrix"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2024-01-01-Fast-Erasure-Decoding-of-Reed-Solomon-Codes-Based-on-Decomposition-of-Vandermonde-Matrix
 date: 2024-01-01
 venue: 'In the proceedings of 2024 16th International Conference on Wireless Communications and Signal Processing (WCSP)'

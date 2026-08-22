@@ -1,7 +1,7 @@
 ---
 title: "A dual-stage pseudo-labeling method for the diagnosis of mental disorder on MRI scans"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2022-01-01-A-dual-stage-pseudo-labeling-method-for-the-diagnosis-of-mental-disorder-on-MRI-scans
 date: 2022-01-01
 venue: 'In the proceedings of 2022 International Joint Conference on Neural Networks (IJCNN)'

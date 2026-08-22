@@ -1,7 +1,7 @@
 ---
 title: "Towards Quantum-Safe Distributed Learning via Homomorphic Encryption: Learning with Gradients"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2024-01-01-Towards-Quantum-Safe-Distributed-Learning-via-Homomorphic-Encryption-Learning-with-Gradients
 date: 2024-01-01
 venue: 'In the proceedings of 2024 IEEE Information Theory Workshop (ITW)'

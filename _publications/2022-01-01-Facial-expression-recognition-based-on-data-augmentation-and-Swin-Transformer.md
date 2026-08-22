@@ -1,7 +1,7 @@
 ---
 title: "Facial expression recognition based on data augmentation and Swin-Transformer"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2022-01-01-Facial-expression-recognition-based-on-data-augmentation-and-Swin-Transformer
 date: 2022-01-01
 venue: 'In the proceedings of 2022 IEEE Region 10 Conference (TENCON 2022): Tech-Biz Intelligence'

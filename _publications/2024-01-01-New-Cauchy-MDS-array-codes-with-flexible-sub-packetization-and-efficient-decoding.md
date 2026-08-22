@@ -1,7 +1,7 @@
 ---
 title: "New Cauchy MDS array codes with flexible sub-packetization and efficient decoding"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2024-01-01-New-Cauchy-MDS-array-codes-with-flexible-sub-packetization-and-efficient-decoding
 date: 2024-01-01
 venue: 'In the proceedings of 2024 IEEE Information Theory Workshop (ITW)'

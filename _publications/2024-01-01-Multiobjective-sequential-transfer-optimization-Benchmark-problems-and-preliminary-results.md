@@ -1,7 +1,7 @@
 ---
 title: "Multiobjective sequential transfer optimization: Benchmark problems and preliminary results"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2024-01-01-Multiobjective-sequential-transfer-optimization-Benchmark-problems-and-preliminary-results
 date: 2024-01-01
 venue: 'In the proceedings of 2024 IEEE Congress on Evolutionary Computation (CEC)'

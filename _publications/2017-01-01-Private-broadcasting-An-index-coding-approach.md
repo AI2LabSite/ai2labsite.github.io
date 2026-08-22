@@ -1,7 +1,7 @@
 ---
 title: "Private broadcasting: An index coding approach"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2017-01-01-Private-broadcasting-An-index-coding-approach
 date: 2017-01-01
 venue: 'In the proceedings of 2017 IEEE International Symposium on Information Theory (ISIT)'

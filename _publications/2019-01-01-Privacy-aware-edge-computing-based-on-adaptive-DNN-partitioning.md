@@ -1,7 +1,7 @@
 ---
 title: "Privacy-aware edge computing based on adaptive DNN partitioning"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2019-01-01-Privacy-aware-edge-computing-based-on-adaptive-DNN-partitioning
 date: 2019-01-01
 venue: 'In the proceedings of 2019 IEEE Global Communications Conference (GLOBECOM)'

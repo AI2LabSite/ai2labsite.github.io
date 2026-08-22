@@ -1,7 +1,7 @@
 ---
 title: "Federated adaptive bandits aided caching for heterogeneous edge servers with uncertainty"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2022-01-01-Federated-adaptive-bandits-aided-caching-for-heterogeneous-edge-servers-with-uncertainty
 date: 2022-01-01
 venue: 'In the proceedings of 2022 IEEE Wireless Communications and Networking Conference (WCNC)'

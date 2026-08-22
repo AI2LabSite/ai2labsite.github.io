@@ -1,7 +1,7 @@
 ---
 title: "Loran: Improved low-rank adaptation by a non-linear transformation"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2024-01-01-Loran-Improved-low-rank-adaptation-by-a-non-linear-transformation
 date: 2024-01-01
 venue: 'In the proceedings of Findings of the Association for Computational Linguistics: EMNLP 2024'

@@ -1,7 +1,7 @@
 ---
 title: "Multiple-Cyclic-Basis GCD for BCH Codes"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2026-01-01-Multiple-Cyclic-Basis-GCD-for-BCH-Codes
 date: 2026-01-01
 venue: 'In the proceedings of ICC 2026-IEEE International Conference on Communications'

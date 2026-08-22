@@ -1,7 +1,7 @@
 ---
 title: "Designing an educational chatbot with joint intent classification and slot filling"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2022-01-01-Designing-an-educational-chatbot-with-joint-intent-classification-and-slot-filling
 date: 2022-01-01
 venue: 'In the proceedings of 2022 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE)'

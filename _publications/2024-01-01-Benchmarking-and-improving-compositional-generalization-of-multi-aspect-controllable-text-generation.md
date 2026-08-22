@@ -1,7 +1,7 @@
 ---
 title: "Benchmarking and improving compositional generalization of multi-aspect controllable text generation"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2024-01-01-Benchmarking-and-improving-compositional-generalization-of-multi-aspect-controllable-text-generation
 date: 2024-01-01
 venue: 'In the proceedings of Proceedings Of The 62nd Annual Meeting Of The Association For Computational Linguistics (Volume 1: Long Papers)'

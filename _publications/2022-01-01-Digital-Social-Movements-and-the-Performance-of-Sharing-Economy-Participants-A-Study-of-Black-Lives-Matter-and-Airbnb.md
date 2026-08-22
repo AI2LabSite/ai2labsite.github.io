@@ -1,7 +1,7 @@
 ---
 title: "Digital Social Movements and the Performance of Sharing Economy Participants: A Study of Black Lives Matter and Airbnb"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2022-01-01-Digital-Social-Movements-and-the-Performance-of-Sharing-Economy-Participants-A-Study-of-Black-Lives-Matter-and-Airbnb
 date: 2022-01-01
 venue: 'In the proceedings of Workshop on Information Technologies and Systems 2022'

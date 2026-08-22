@@ -1,7 +1,7 @@
 ---
 title: "GE-Free BP-OSD for Short 5G LDPC Codes"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2026-01-01-GE-Free-BP-OSD-for-Short-5G-LDPC-Codes
 date: 2026-01-01
 venue: 'In the proceedings of 2026 IEEE Wireless Communications and Networking Conference (WCNC)'

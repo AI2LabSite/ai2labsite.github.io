@@ -1,7 +1,7 @@
 ---
 title: "Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2024-01-01-Solving-Challenging-Math-Word-Problems-Using-GPT-4-Code-Interpreter-with-Code-based-Self-Verification
 date: 2024-01-01
 venue: 'In the proceedings of International Conference on Learning Representations'

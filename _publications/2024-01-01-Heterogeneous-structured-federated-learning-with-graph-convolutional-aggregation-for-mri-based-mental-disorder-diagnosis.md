@@ -1,7 +1,7 @@
 ---
 title: "Heterogeneous structured federated learning with graph convolutional aggregation for mri-based mental disorder diagnosis"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2024-01-01-Heterogeneous-structured-federated-learning-with-graph-convolutional-aggregation-for-mri-based-mental-disorder-diagnosis
 date: 2024-01-01
 venue: 'In the proceedings of 2024 International Joint Conference on Neural Networks (IJCNN)'

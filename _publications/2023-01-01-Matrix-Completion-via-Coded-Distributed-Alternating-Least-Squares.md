@@ -1,7 +1,7 @@
 ---
 title: "Matrix Completion via Coded Distributed Alternating Least Squares"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2023-01-01-Matrix-Completion-via-Coded-Distributed-Alternating-Least-Squares
 date: 2023-01-01
 venue: 'In the proceedings of 2023 International Conference on Wireless Communications and Signal Processing (WCSP)'

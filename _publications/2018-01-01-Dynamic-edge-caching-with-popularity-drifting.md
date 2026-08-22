@@ -1,7 +1,7 @@
 ---
 title: "Dynamic edge caching with popularity drifting"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2018-01-01-Dynamic-edge-caching-with-popularity-drifting
 date: 2018-01-01
 venue: 'In the proceedings of 2018 IEEE Information Theory Workshop (ITW)'

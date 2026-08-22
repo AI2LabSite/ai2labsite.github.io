@@ -1,7 +1,7 @@
 ---
 title: "What makes a good reasoning chain? uncovering structural patterns in long chain-of-thought reasoning"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2025-01-01-What-makes-a-good-reasoning-chain-uncovering-structural-patterns-in-long-chain-of-thought-reasoning
 date: 2025-01-01
 venue: 'In the proceedings of Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing'

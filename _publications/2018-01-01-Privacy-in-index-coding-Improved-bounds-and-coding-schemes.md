@@ -1,7 +1,7 @@
 ---
 title: "Privacy in index coding: Improved bounds and coding schemes"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2018-01-01-Privacy-in-index-coding-Improved-bounds-and-coding-schemes
 date: 2018-01-01
 venue: 'In the proceedings of 2018 IEEE International Symposium on Information Theory (ISIT)'

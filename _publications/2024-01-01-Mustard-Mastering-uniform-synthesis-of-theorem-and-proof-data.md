@@ -1,7 +1,7 @@
 ---
 title: "Mustard: Mastering uniform synthesis of theorem and proof data"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2024-01-01-Mustard-Mastering-uniform-synthesis-of-theorem-and-proof-data
 date: 2024-01-01
 venue: 'In the proceedings of International Conference on Learning Representations'

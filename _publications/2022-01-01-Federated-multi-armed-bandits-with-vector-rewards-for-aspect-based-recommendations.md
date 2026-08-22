@@ -1,7 +1,7 @@
 ---
 title: "Federated multi-armed bandits with vector rewards for aspect-based recommendations"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2022-01-01-Federated-multi-armed-bandits-with-vector-rewards-for-aspect-based-recommendations
 date: 2022-01-01
 venue: 'In the proceedings of GLOBECOM 2022-2022 IEEE Global Communications Conference'

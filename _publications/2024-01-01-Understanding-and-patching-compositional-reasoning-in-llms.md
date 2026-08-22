@@ -1,7 +1,7 @@
 ---
 title: "Understanding and patching compositional reasoning in llms"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2024-01-01-Understanding-and-patching-compositional-reasoning-in-llms
 date: 2024-01-01
 venue: 'In the proceedings of Findings of the Association for Computational Linguistics: ACL 2024'

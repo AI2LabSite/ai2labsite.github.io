@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2025-01-01-Unlocking-the-Power-of-Function-Vectors-for-Characterizing-and-Mitigating-Catastrophic-Forgetting-in-Continual-Instruction-Tuning
 date: 2025-01-01
 venue: 'In the proceedings of International Conference on Learning Representations'

@@ -1,7 +1,7 @@
 ---
 title: "Spatially-Coupled OTFS Systems via Block Markov Superposition Transmission"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2026-01-01-Spatially-Coupled-OTFS-Systems-via-Block-Markov-Superposition-Transmission
 date: 2026-01-01
 venue: 'In the proceedings of ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'

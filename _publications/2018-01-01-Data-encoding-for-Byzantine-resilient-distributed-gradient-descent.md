@@ -1,7 +1,7 @@
 ---
 title: "Data encoding for Byzantine-resilient distributed gradient descent"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2018-01-01-Data-encoding-for-Byzantine-resilient-distributed-gradient-descent
 date: 2018-01-01
 venue: 'In the proceedings of 2018 56th Annual Allerton Conference on Communication, Control, and Computing (Allerton)'

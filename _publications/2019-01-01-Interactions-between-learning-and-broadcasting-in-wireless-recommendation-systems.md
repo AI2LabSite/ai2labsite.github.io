@@ -1,7 +1,7 @@
 ---
 title: "Interactions between learning and broadcasting in wireless recommendation systems"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2019-01-01-Interactions-between-learning-and-broadcasting-in-wireless-recommendation-systems
 date: 2019-01-01
 venue: 'In the proceedings of 2019 IEEE international symposium on information theory (ISIT)'

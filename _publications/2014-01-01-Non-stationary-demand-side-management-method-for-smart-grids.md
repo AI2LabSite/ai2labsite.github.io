@@ -1,7 +1,7 @@
 ---
 title: "Non-stationary demand side management method for smart grids"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2014-01-01-Non-stationary-demand-side-management-method-for-smart-grids
 date: 2014-01-01
 venue: 'In the proceedings of 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'

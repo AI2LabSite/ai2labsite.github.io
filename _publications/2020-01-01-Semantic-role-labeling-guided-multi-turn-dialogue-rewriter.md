@@ -1,7 +1,7 @@
 ---
 title: "Semantic role labeling guided multi-turn dialogue rewriter"
 collection: publications
-category: proceedings
+category: conferences
 permalink: /publication/2020-01-01-Semantic-role-labeling-guided-multi-turn-dialogue-rewriter
 date: 2020-01-01
 venue: 'In the proceedings of Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)'
