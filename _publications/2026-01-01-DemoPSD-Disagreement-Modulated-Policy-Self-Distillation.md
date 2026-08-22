@@ -1,6 +1,7 @@
 ---
 title: "DemoPSD: Disagreement-Modulated Policy Self-Distillation"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-DemoPSD-Disagreement-Modulated-Policy-Self-Distillation
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2607.02502'

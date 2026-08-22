@@ -1,6 +1,7 @@
 ---
 title: "Perfedrec++: Enhancing personalized federated recommendation with self-supervised pre-training"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Perfedrec-Enhancing-personalized-federated-recommendation-with-self-supervised-pre-training
 date: 2024-01-01
 venue: 'ACM Transactions on Intelligent Systems and Technology'

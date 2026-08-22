@@ -1,6 +1,7 @@
 ---
 title: "Optimal power control for over-the-air federated learning with gradient compression"
 collection: publications
+category: proceedings
 permalink: /publication/2024-01-01-Optimal-power-control-for-over-the-air-federated-learning-with-gradient-compression
 date: 2024-01-01
 venue: 'In the proceedings of 2024 IEEE 30th International Conference on Parallel and Distributed Systems (ICPADS)'

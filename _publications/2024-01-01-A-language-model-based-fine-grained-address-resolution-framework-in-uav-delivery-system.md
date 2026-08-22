@@ -1,6 +1,7 @@
 ---
 title: "A language model-based fine-grained address resolution framework in uav delivery system"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-A-language-model-based-fine-grained-address-resolution-framework-in-uav-delivery-system
 date: 2024-01-01
 venue: 'IEEE Journal of Selected Topics in Signal Processing'

@@ -1,6 +1,7 @@
 ---
 title: "Merging Beyond: Streaming LLM Updates via Activation-Guided Rotations"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Merging-Beyond-Streaming-LLM-Updates-via-Activation-Guided-Rotations
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2602.03237'

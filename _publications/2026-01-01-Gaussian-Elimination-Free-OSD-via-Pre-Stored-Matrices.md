@@ -1,6 +1,7 @@
 ---
 title: "Gaussian Elimination-Free OSD via Pre-Stored Matrices"
 collection: publications
+category: proceedings
 permalink: /publication/2026-01-01-Gaussian-Elimination-Free-OSD-via-Pre-Stored-Matrices
 date: 2026-01-01
 venue: 'In the proceedings of 2026 IEEE Wireless Communications and Networking Conference (WCNC)'

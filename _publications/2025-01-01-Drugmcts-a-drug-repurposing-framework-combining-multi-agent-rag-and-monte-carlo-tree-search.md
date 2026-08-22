@@ -1,6 +1,7 @@
 ---
 title: "Drugmcts: a drug repurposing framework combining multi-agent, rag and monte carlo tree search"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Drugmcts-a-drug-repurposing-framework-combining-multi-agent-rag-and-monte-carlo-tree-search
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2507.07426'

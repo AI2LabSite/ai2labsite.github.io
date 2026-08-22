@@ -1,6 +1,7 @@
 ---
 title: "Killing two birds with one stone: Quantization achieves privacy in distributed learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Killing-two-birds-with-one-stone-Quantization-achieves-privacy-in-distributed-learning
 date: 2024-01-01
 venue: 'Digital Signal Processing'

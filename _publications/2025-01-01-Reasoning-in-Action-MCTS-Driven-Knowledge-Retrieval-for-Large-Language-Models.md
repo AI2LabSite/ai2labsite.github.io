@@ -1,6 +1,7 @@
 ---
 title: "Reasoning in Action: MCTS-Driven Knowledge Retrieval for Large Language Models"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Reasoning-in-Action-MCTS-Driven-Knowledge-Retrieval-for-Large-Language-Models
 date: 2025-01-01
 venue: 'IEEE Journal of Selected Topics in Signal Processing'

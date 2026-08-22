@@ -1,6 +1,7 @@
 ---
 title: "Truncated Non-Uniform quantization for distributed SGD"
 collection: publications
+category: proceedings
 permalink: /publication/2024-01-01-Truncated-Non-Uniform-quantization-for-distributed-SGD
 date: 2024-01-01
 venue: 'In the proceedings of 2024 IEEE Information Theory Workshop (ITW)'

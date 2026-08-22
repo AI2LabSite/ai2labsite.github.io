@@ -1,6 +1,7 @@
 ---
 title: "Bi-chainer: automated large language models reasoning with bidirectional chaining"
 collection: publications
+category: proceedings
 permalink: /publication/2024-01-01-Bi-chainer-automated-large-language-models-reasoning-with-bidirectional-chaining
 date: 2024-01-01
 venue: 'In the proceedings of Findings of the Association for Computational Linguistics: ACL 2024'

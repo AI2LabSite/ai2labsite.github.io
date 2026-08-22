@@ -1,6 +1,7 @@
 ---
 title: "KLIPA: a knowledge graph and LLM-Driven QA framework for IP analysis"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-KLIPA-a-knowledge-graph-and-LLM-Driven-QA-framework-for-IP-analysis
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2509.07860'

@@ -1,6 +1,7 @@
 ---
 title: "The tradeoff between privacy and accuracy in anomaly detection using federated xgboost"
 collection: publications
+category: manuscripts
 permalink: /publication/2019-01-01-The-tradeoff-between-privacy-and-accuracy-in-anomaly-detection-using-federated-xgboost
 date: 2019-01-01
 venue: 'arXiv preprint arXiv:1907.07157'

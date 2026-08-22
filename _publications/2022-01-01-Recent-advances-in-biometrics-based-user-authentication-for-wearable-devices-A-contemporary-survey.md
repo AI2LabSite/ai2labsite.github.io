@@ -1,6 +1,7 @@
 ---
 title: "Recent advances in biometrics-based user authentication for wearable devices: A contemporary survey"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Recent-advances-in-biometrics-based-user-authentication-for-wearable-devices-A-contemporary-survey
 date: 2022-01-01
 venue: 'Digital Signal Processing'

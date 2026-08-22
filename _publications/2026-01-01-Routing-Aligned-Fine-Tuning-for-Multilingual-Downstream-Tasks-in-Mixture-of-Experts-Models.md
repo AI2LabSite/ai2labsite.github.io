@@ -1,6 +1,7 @@
 ---
 title: "Routing-Aligned Fine-Tuning for Multilingual Downstream Tasks in Mixture-of-Experts Models"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Routing-Aligned-Fine-Tuning-for-Multilingual-Downstream-Tasks-in-Mixture-of-Experts-Models
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2605.28306'

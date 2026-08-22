@@ -1,6 +1,7 @@
 ---
 title: "Stream-based online active learning in a contextual multi-armed bandit framework"
 collection: publications
+category: manuscripts
 permalink: /publication/2016-01-01-Stream-based-online-active-learning-in-a-contextual-multi-armed-bandit-framework
 date: 2016-01-01
 venue: 'arXiv preprint arXiv:1607.03182'

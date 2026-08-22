@@ -1,6 +1,7 @@
 ---
 title: "Exploring the potential of large language models (LLMs) in analyzing passengers’ perceptions of transit service quality"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Exploring-the-potential-of-large-language-models-LLMs-in-analyzing-passengers-perceptions-of-transit-service-quality
 date: 2026-01-01
 venue: 'Environment and Planning B: Urban Analytics and City Science'

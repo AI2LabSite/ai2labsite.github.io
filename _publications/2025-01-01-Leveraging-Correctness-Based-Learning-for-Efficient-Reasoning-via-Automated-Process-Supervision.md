@@ -1,6 +1,7 @@
 ---
 title: "Leveraging Correctness-Based Learning for Efficient Reasoning via Automated Process Supervision"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Leveraging-Correctness-Based-Learning-for-Efficient-Reasoning-via-Automated-Process-Supervision
 date: 2025-01-01
 venue: 'IEEE Journal of Selected Topics in Signal Processing'

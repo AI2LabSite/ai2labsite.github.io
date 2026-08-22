@@ -1,6 +1,7 @@
 ---
 title: "Communication efficient federated learning with heterogeneous structured client models"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Communication-efficient-federated-learning-with-heterogeneous-structured-client-models
 date: 2022-01-01
 venue: 'IEEE Transactions on Emerging Topics in Computational Intelligence'

@@ -1,6 +1,7 @@
 ---
 title: "Collaborative content placement among wireless edge caching stations with time-to-live cache"
 collection: publications
+category: manuscripts
 permalink: /publication/2019-01-01-Collaborative-content-placement-among-wireless-edge-caching-stations-with-time-to-live-cache
 date: 2019-01-01
 venue: 'IEEE transactions on multimedia'

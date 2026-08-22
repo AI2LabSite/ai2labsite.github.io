@@ -1,6 +1,7 @@
 ---
 title: "PARM: Pipeline-Adapted Reward Model"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-PARM-Pipeline-Adapted-Reward-Model
 date: 2026-01-01
 venue: 'IEEE Journal of Selected Topics in Signal Processing'

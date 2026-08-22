@@ -1,6 +1,7 @@
 ---
 title: "On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-On-the-Role-of-Reasoning-Patterns-in-the-Generalization-Discrepancy-of-Long-Chain-of-Thought-Supervised-Fine-Tuning
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2604.01702'

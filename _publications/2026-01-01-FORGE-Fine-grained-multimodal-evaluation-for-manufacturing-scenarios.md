@@ -1,6 +1,7 @@
 ---
 title: "FORGE: Fine-grained multimodal evaluation for manufacturing scenarios"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-FORGE-Fine-grained-multimodal-evaluation-for-manufacturing-scenarios
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2604.07413'

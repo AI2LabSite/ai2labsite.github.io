@@ -1,6 +1,7 @@
 ---
 title: "AC-SGD: Adaptively compressed SGD for communication-efficient distributed learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-AC-SGD-Adaptively-compressed-SGD-for-communication-efficient-distributed-learning
 date: 2022-01-01
 venue: 'IEEE Journal on Selected Areas in Communications'

@@ -1,6 +1,7 @@
 ---
 title: "On the I/O Cost of Linear Repair Schemes for Arbitrary $(n, k) $ Reed-Solomon Codes"
 collection: publications
+category: proceedings
 permalink: /publication/2024-01-01-On-the-IO-Cost-of-Linear-Repair-Schemes-for-Arbitrary-n-k-Reed-Solomon-Codes
 date: 2024-01-01
 venue: 'In the proceedings of 2024 IEEE Information Theory Workshop (ITW)'

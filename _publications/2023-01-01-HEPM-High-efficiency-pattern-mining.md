@@ -1,6 +1,7 @@
 ---
 title: "HEPM: High-efficiency pattern mining"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-HEPM-High-efficiency-pattern-mining
 date: 2023-01-01
 venue: 'Knowledge-Based Systems'

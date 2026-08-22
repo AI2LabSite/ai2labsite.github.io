@@ -1,6 +1,7 @@
 ---
 title: "CSAGN: Conversational structure aware graph network for conversational semantic role labeling"
 collection: publications
+category: proceedings
 permalink: /publication/2021-01-01-CSAGN-Conversational-structure-aware-graph-network-for-conversational-semantic-role-labeling
 date: 2021-01-01
 venue: 'In the proceedings of Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing'

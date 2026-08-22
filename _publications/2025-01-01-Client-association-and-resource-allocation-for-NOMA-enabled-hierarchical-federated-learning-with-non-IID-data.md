@@ -1,6 +1,7 @@
 ---
 title: "Client association and resource allocation for NOMA-enabled hierarchical federated learning with non-IID data"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Client-association-and-resource-allocation-for-NOMA-enabled-hierarchical-federated-learning-with-non-IID-data
 date: 2025-01-01
 venue: 'IEEE Transactions on Network Science and Engineering'

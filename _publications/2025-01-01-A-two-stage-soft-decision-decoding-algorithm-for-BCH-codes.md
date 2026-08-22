@@ -1,6 +1,7 @@
 ---
 title: "A two-stage soft-decision decoding algorithm for BCH codes"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-A-two-stage-soft-decision-decoding-algorithm-for-BCH-codes
 date: 2025-01-01
 venue: 'IEEE Transactions on Communications'

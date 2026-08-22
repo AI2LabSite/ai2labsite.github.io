@@ -1,6 +1,7 @@
 ---
 title: "Integrating large language models into recommendation via mutual augmentation and adaptive aggregation"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Integrating-large-language-models-into-recommendation-via-mutual-augmentation-and-adaptive-aggregation
 date: 2026-01-01
 venue: 'IEEE Journal of Selected Topics in Signal Processing'

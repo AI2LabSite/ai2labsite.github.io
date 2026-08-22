@@ -1,6 +1,7 @@
 ---
 title: "Minimizing age of information with power constraints: Multi-user opportunistic scheduling in multi-state time-varying channels"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-01-Minimizing-age-of-information-with-power-constraints-Multi-user-opportunistic-scheduling-in-multi-state-time-varying-channels
 date: 2020-01-01
 venue: 'IEEE Journal on Selected Areas in Communications'

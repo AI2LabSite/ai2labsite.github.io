@@ -1,6 +1,7 @@
 ---
 title: "Surrogate-assisted search with competitive knowledge transfer for expensive optimization"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Surrogate-assisted-search-with-competitive-knowledge-transfer-for-expensive-optimization
 date: 2024-01-01
 venue: 'IEEE Transactions on Evolutionary Computation'

@@ -1,6 +1,7 @@
 ---
 title: "Towards Improving Interpretability of Language Model Generation Through a Structured Knowledge Discovery Approach"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Towards-Improving-Interpretability-of-Language-Model-Generation-Through-a-Structured-Knowledge-Discovery-Approach
 date: 2024-01-01
 venue: 'IEEE Journal of Selected Topics in Signal Processing'

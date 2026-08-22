@@ -1,6 +1,7 @@
 ---
 title: "Speech emotion recognition based on deep learning"
 collection: publications
+category: proceedings
 permalink: /publication/2022-01-01-Speech-emotion-recognition-based-on-deep-learning
 date: 2022-01-01
 venue: 'In the proceedings of TENCON 2022-2022 IEEE Region 10 Conference (TENCON)'

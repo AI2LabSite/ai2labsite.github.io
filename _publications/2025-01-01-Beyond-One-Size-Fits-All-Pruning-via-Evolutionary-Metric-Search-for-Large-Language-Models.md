@@ -1,6 +1,7 @@
 ---
 title: "Beyond One-Size-Fits-All Pruning via Evolutionary Metric Search for Large Language Models"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Beyond-One-Size-Fits-All-Pruning-via-Evolutionary-Metric-Search-for-Large-Language-Models
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2502.10735'

@@ -1,6 +1,7 @@
 ---
 title: "Automated Proving of Shannon-Type Entropy Inequalities via Fine-Tuned Language Models and Guided Tree Search"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Automated-Proving-of-Shannon-Type-Entropy-Inequalities-via-Fine-Tuned-Language-Models-and-Guided-Tree-Search
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2606.05729'

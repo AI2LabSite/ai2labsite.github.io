@@ -1,6 +1,7 @@
 ---
 title: "A whittle index approach to minimizing age of multi-packet information in IoT network"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-01-A-whittle-index-approach-to-minimizing-age-of-multi-packet-information-in-IoT-network
 date: 2021-01-01
 venue: 'IEEE Access'

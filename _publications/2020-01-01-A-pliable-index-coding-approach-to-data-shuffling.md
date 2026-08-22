@@ -1,6 +1,7 @@
 ---
 title: "A pliable index coding approach to data shuffling"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-01-A-pliable-index-coding-approach-to-data-shuffling
 date: 2020-01-01
 venue: 'IEEE Transactionson InformationTheory'

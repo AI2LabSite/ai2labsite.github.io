@@ -1,6 +1,7 @@
 ---
 title: "Interpretable catastrophic forgetting of large language model fine-tuning via instruction vector"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Interpretable-catastrophic-forgetting-of-large-language-model-fine-tuning-via-instruction-vector
 date: 2024-01-01
 venue: 'arXiv preprint arXiv:2406.12227'

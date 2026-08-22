@@ -1,6 +1,7 @@
 ---
 title: "Enhancing Low-Rank Adaptation with Structured Nonlinear Transformations"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Enhancing-Low-Rank-Adaptation-with-Structured-Nonlinear-Transformations
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2509.21870'

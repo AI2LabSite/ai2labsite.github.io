@@ -1,6 +1,7 @@
 ---
 title: "A divide-and-conquer optimization paradigm for waterflooding production optimization"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-A-divide-and-conquer-optimization-paradigm-for-waterflooding-production-optimization
 date: 2022-01-01
 venue: 'Journal of Petroleum Science and Engineering'

@@ -1,6 +1,7 @@
 ---
 title: "Federated online learning aided multi-objective proactive caching in heterogeneous edge networks"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Federated-online-learning-aided-multi-objective-proactive-caching-in-heterogeneous-edge-networks
 date: 2023-01-01
 venue: 'IEEE Transactions on Cognitive Communications and Networking'

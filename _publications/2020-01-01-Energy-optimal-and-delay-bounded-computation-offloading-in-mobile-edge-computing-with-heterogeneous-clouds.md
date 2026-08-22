@@ -1,6 +1,7 @@
 ---
 title: "Energy-optimal and delay-bounded computation offloading in mobile edge computing with heterogeneous clouds"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-01-Energy-optimal-and-delay-bounded-computation-offloading-in-mobile-edge-computing-with-heterogeneous-clouds
 date: 2020-01-01
 venue: 'China Communications'

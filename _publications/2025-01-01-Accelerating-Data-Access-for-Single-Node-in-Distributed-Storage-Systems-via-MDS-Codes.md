@@ -1,6 +1,7 @@
 ---
 title: "Accelerating Data Access for Single Node in Distributed Storage Systems via MDS Codes"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Accelerating-Data-Access-for-Single-Node-in-Distributed-Storage-Systems-via-MDS-Codes
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2501.11353'

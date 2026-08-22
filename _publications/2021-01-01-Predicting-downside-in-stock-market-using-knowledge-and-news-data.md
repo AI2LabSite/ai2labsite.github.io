@@ -1,6 +1,7 @@
 ---
 title: "Predicting downside in stock market using knowledge and news data"
 collection: publications
+category: proceedings
 permalink: /publication/2021-01-01-Predicting-downside-in-stock-market-using-knowledge-and-news-data
 date: 2021-01-01
 venue: 'In the proceedings of 2021 IEEE 27th International Conference on Parallel and Distributed Systems (ICPADS)'

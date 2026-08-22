@@ -1,6 +1,7 @@
 ---
 title: "Layered randomized quantization for communication-efficient and privacy-preserving distributed learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Layered-randomized-quantization-for-communication-efficient-and-privacy-preserving-distributed-learning
 date: 2025-01-01
 venue: 'IEEE Journal on Selected Areas in Communications'

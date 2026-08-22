@@ -1,6 +1,7 @@
 ---
 title: "A framework of large-scale peer-to-peer learning system"
 collection: publications
+category: proceedings
 permalink: /publication/2023-01-01-A-framework-of-large-scale-peer-to-peer-learning-system
 date: 2023-01-01
 venue: 'In the proceedings of International Conference on Neural Information Processing'

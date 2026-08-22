@@ -1,6 +1,7 @@
 ---
 title: "Tight lower bound on cross-rack update bandwidth and explicit constructions"
 collection: publications
+category: proceedings
 permalink: /publication/2024-01-01-Tight-lower-bound-on-cross-rack-update-bandwidth-and-explicit-constructions
 date: 2024-01-01
 venue: 'In the proceedings of 2024 IEEE International Symposium on Information Theory (ISIT)'

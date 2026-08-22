@@ -1,6 +1,7 @@
 ---
 title: "Optical Reflecting Intelligent Surface-Assisted Secure Visible Light Communication: An Inverse Pre-Reflection Model-Driven Deep Reinforcement Learning Approach"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Optical-Reflecting-Intelligent-Surface-Assisted-Secure-Visible-Light-Communication-An-Inverse-Pre-Reflection-Model-Driven-Deep-Reinforcement-Learning-Approach
 date: 2026-01-01
 venue: 'IEEE Transactions on Wireless Communications'

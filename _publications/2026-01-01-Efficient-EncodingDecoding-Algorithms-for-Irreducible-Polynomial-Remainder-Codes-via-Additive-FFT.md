@@ -1,6 +1,7 @@
 ---
 title: "Efficient Encoding/Decoding Algorithms for Irreducible Polynomial Remainder Codes via Additive FFT"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Efficient-EncodingDecoding-Algorithms-for-Irreducible-Polynomial-Remainder-Codes-via-Additive-FFT
 date: 2026-01-01
 venue: 'IEEE Transactions on Communications'

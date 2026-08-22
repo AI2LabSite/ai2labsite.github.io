@@ -1,6 +1,7 @@
 ---
 title: "RALLRec+: Retrieval augmented large language model recommendation with reasoning"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-RALLRec-Retrieval-augmented-large-language-model-recommendation-with-reasoning
 date: 2025-01-01
 venue: 'Expert Systems with Applications'

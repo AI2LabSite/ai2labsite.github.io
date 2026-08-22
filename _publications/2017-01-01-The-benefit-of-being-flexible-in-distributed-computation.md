@@ -1,6 +1,7 @@
 ---
 title: "The benefit of being flexible in distributed computation"
 collection: publications
+category: proceedings
 permalink: /publication/2017-01-01-The-benefit-of-being-flexible-in-distributed-computation
 date: 2017-01-01
 venue: 'In the proceedings of 2017 IEEE Information Theory Workshop (ITW)'

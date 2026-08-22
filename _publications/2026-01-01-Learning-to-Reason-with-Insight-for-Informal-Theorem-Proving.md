@@ -1,6 +1,7 @@
 ---
 title: "Learning to Reason with Insight for Informal Theorem Proving"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Learning-to-Reason-with-Insight-for-Informal-Theorem-Proving
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2604.16278'

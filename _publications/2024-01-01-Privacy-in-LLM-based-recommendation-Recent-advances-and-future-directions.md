@@ -1,6 +1,7 @@
 ---
 title: "Privacy in LLM-based recommendation: Recent advances and future directions"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Privacy-in-LLM-based-recommendation-Recent-advances-and-future-directions
 date: 2024-01-01
 venue: 'arXiv preprint arXiv:2406.01363'

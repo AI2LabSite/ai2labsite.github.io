@@ -1,6 +1,7 @@
 ---
 title: "Scenario-adaptive key establishment scheme for lora-enabled iov communications"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Scenario-adaptive-key-establishment-scheme-for-lora-enabled-iov-communications
 date: 2024-01-01
 venue: 'IEEE Transactions on Mobile Computing'

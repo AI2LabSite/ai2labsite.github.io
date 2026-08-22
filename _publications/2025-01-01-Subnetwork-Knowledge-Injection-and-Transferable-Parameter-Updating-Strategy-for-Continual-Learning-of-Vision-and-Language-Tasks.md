@@ -1,6 +1,7 @@
 ---
 title: "Subnetwork Knowledge Injection and Transferable Parameter Updating Strategy for Continual Learning of Vision-and-Language Tasks"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Subnetwork-Knowledge-Injection-and-Transferable-Parameter-Updating-Strategy-for-Continual-Learning-of-Vision-and-Language-Tasks
 date: 2025-01-01
 venue: 'IEEE Transactions on Artificial Intelligence'

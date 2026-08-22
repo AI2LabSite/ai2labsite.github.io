@@ -1,6 +1,7 @@
 ---
 title: "Communication-efficient federated learning with adaptive quantization"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Communication-efficient-federated-learning-with-adaptive-quantization
 date: 2022-01-01
 venue: 'ACM Transactions on Intelligent Systems and Technology (TIST)'

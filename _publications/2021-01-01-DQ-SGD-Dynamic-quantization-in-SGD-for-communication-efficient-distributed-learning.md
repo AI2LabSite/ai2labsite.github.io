@@ -1,6 +1,7 @@
 ---
 title: "DQ-SGD: Dynamic quantization in SGD for communication-efficient distributed learning"
 collection: publications
+category: proceedings
 permalink: /publication/2021-01-01-DQ-SGD-Dynamic-quantization-in-SGD-for-communication-efficient-distributed-learning
 date: 2021-01-01
 venue: 'In the proceedings of 2021 IEEE 18th International Conference on Mobile Ad Hoc and Smart Systems (MASS)'

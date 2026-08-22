@@ -1,6 +1,7 @@
 ---
 title: "A low-complexity BP-OSD algorithm for quantum LDPC codes"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-A-low-complexity-BP-OSD-algorithm-for-quantum-LDPC-codes
 date: 2025-01-01
 venue: 'The European Physical Journal Special Topics'

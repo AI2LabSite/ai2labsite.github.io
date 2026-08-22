@@ -1,6 +1,7 @@
 ---
 title: "Hiding images in deep probabilistic models"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Hiding-images-in-deep-probabilistic-models
 date: 2022-01-01
 venue: 'Advances in Neural Information Processing Systems'

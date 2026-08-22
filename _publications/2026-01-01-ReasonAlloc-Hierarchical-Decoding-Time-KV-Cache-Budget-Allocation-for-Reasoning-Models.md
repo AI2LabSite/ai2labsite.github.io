@@ -1,6 +1,7 @@
 ---
 title: "ReasonAlloc: Hierarchical Decoding-Time KV Cache Budget Allocation for Reasoning Models"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-ReasonAlloc-Hierarchical-Decoding-Time-KV-Cache-Budget-Allocation-for-Reasoning-Models
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2606.11164'

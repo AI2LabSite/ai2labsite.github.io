@@ -1,6 +1,7 @@
 ---
 title: "DR-LoRA: Dynamic Rank LoRA for Fine-Tuning Mixture-of-Experts Models"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-DR-LoRA-Dynamic-Rank-LoRA-for-Fine-Tuning-Mixture-of-Experts-Models
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2601.04823'

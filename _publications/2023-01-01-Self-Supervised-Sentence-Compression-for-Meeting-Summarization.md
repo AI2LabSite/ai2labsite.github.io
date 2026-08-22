@@ -1,6 +1,7 @@
 ---
 title: "Self-Supervised Sentence Compression for Meeting Summarization."
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Self-Supervised-Sentence-Compression-for-Meeting-Summarization
 date: 2023-01-01
 venue: 'CoRR'

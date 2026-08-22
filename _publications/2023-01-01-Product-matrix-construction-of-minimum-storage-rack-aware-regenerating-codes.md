@@ -1,6 +1,7 @@
 ---
 title: "Product-matrix construction of minimum storage rack-aware regenerating codes"
 collection: publications
+category: proceedings
 permalink: /publication/2023-01-01-Product-matrix-construction-of-minimum-storage-rack-aware-regenerating-codes
 date: 2023-01-01
 venue: 'In the proceedings of 2023 International Conference on Wireless Communications and Signal Processing (WCSP)'

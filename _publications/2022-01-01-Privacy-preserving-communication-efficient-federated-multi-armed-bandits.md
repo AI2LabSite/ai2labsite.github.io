@@ -1,6 +1,7 @@
 ---
 title: "Privacy-preserving communication-efficient federated multi-armed bandits"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Privacy-preserving-communication-efficient-federated-multi-armed-bandits
 date: 2022-01-01
 venue: 'IEEE Journal on Selected Areas in Communications'

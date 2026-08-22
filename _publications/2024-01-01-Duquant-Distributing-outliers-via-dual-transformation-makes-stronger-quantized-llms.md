@@ -1,6 +1,7 @@
 ---
 title: "Duquant: Distributing outliers via dual transformation makes stronger quantized llms"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Duquant-Distributing-outliers-via-dual-transformation-makes-stronger-quantized-llms
 date: 2024-01-01
 venue: 'Advances in Neural Information Processing Systems'

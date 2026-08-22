@@ -1,6 +1,7 @@
 ---
 title: "Gaussian-Elimination-Free BP-OSD Algorithm for Short 5G LDPC Codes"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Gaussian-Elimination-Free-BP-OSD-Algorithm-for-Short-5G-LDPC-Codes
 date: 2026-01-01
 venue: 'IEEE Transactions on Communications'

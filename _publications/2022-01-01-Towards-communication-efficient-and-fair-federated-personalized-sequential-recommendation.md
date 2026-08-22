@@ -1,6 +1,7 @@
 ---
 title: "Towards communication efficient and fair federated personalized sequential recommendation"
 collection: publications
+category: proceedings
 permalink: /publication/2022-01-01-Towards-communication-efficient-and-fair-federated-personalized-sequential-recommendation
 date: 2022-01-01
 venue: 'In the proceedings of 2022 5th International Conference on Information Communication and Signal Processing (ICICSP)'

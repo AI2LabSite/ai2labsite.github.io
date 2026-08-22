@@ -1,6 +1,7 @@
 ---
 title: "Sensing, processing, computing and networking for the era of wearables"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Sensing-processing-computing-and-networking-for-the-era-of-wearables
 date: 2022-01-01
 venue: 'Digital Signal Processing'

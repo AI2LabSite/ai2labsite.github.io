@@ -1,6 +1,7 @@
 ---
 title: "Explicit constructions of rack-aware regenerating codes for multi-node failures"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Explicit-constructions-of-rack-aware-regenerating-codes-for-multi-node-failures
 date: 2025-01-01
 venue: 'IEEE Transactions on Communications'

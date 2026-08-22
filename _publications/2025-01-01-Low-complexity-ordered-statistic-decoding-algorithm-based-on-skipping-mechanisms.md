@@ -1,6 +1,7 @@
 ---
 title: "Low-complexity ordered statistic decoding algorithm based on skipping mechanisms"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Low-complexity-ordered-statistic-decoding-algorithm-based-on-skipping-mechanisms
 date: 2025-01-01
 venue: '电子与信息学报'

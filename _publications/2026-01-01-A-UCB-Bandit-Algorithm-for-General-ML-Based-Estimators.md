@@ -1,6 +1,7 @@
 ---
 title: "A UCB Bandit Algorithm for General ML-Based Estimators"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-A-UCB-Bandit-Algorithm-for-General-ML-Based-Estimators
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2601.01061'

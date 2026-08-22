@@ -1,6 +1,7 @@
 ---
 title: "Fine-grained conversational decoding via isotropic and proximal search"
 collection: publications
+category: proceedings
 permalink: /publication/2023-01-01-Fine-grained-conversational-decoding-via-isotropic-and-proximal-search
 date: 2023-01-01
 venue: 'In the proceedings of Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing'

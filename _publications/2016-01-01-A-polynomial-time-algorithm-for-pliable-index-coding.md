@@ -1,6 +1,7 @@
 ---
 title: "A polynomial-time algorithm for pliable index coding"
 collection: publications
+category: proceedings
 permalink: /publication/2016-01-01-A-polynomial-time-algorithm-for-pliable-index-coding
 date: 2016-01-01
 venue: 'In the proceedings of 2016 IEEE International Symposium on Information Theory (ISIT)'

@@ -1,6 +1,7 @@
 ---
 title: "Domain-adaptive pretraining methods for dialogue understanding"
 collection: publications
+category: proceedings
 permalink: /publication/2021-01-01-Domain-adaptive-pretraining-methods-for-dialogue-understanding
 date: 2021-01-01
 venue: 'In the proceedings of Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers)'

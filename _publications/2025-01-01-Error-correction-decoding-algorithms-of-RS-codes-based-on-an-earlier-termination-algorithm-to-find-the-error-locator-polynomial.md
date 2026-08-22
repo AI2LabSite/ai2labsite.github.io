@@ -1,6 +1,7 @@
 ---
 title: "Error correction decoding algorithms of RS codes based on an earlier termination algorithm to find the error locator polynomial"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Error-correction-decoding-algorithms-of-RS-codes-based-on-an-earlier-termination-algorithm-to-find-the-error-locator-polynomial
 date: 2025-01-01
 venue: 'IEEE Transactions on Information Theory'

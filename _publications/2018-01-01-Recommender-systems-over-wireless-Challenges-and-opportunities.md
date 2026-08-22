@@ -1,6 +1,7 @@
 ---
 title: "Recommender systems over wireless: Challenges and opportunities"
 collection: publications
+category: proceedings
 permalink: /publication/2018-01-01-Recommender-systems-over-wireless-Challenges-and-opportunities
 date: 2018-01-01
 venue: 'In the proceedings of 2018 IEEE information theory workshop (ITW)'

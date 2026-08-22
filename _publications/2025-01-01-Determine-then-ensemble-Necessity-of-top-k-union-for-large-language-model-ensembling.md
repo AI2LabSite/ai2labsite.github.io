@@ -1,6 +1,7 @@
 ---
 title: "Determine-then-ensemble: Necessity of top-k union for large language model ensembling"
 collection: publications
+category: proceedings
 permalink: /publication/2025-01-01-Determine-then-ensemble-Necessity-of-top-k-union-for-large-language-model-ensembling
 date: 2025-01-01
 venue: 'In the proceedings of International Conference on Learning Representations'

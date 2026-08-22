@@ -1,6 +1,7 @@
 ---
 title: "HySAGE: A hybrid static and adaptive graph embedding network for context-drifting recommendations"
 collection: publications
+category: proceedings
 permalink: /publication/2022-01-01-HySAGE-A-hybrid-static-and-adaptive-graph-embedding-network-for-context-drifting-recommendations
 date: 2022-01-01
 venue: 'In the proceedings of Proceedings of the 31st ACM International Conference on Information &amp; Knowledge Management'

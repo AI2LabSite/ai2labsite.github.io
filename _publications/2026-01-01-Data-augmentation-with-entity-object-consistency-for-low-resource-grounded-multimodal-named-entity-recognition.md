@@ -1,6 +1,7 @@
 ---
 title: "Data augmentation with entity-object consistency for low-resource grounded multimodal named entity recognition"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Data-augmentation-with-entity-object-consistency-for-low-resource-grounded-multimodal-named-entity-recognition
 date: 2026-01-01
 venue: 'Applied Soft Computing'

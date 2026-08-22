@@ -1,6 +1,7 @@
 ---
 title: "Activation-guided consensus merging for large language models"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Activation-guided-consensus-merging-for-large-language-models
 date: 2026-01-01
 venue: 'Advances in Neural Information Processing Systems'

@@ -1,6 +1,7 @@
 ---
 title: "Reasoning meets personalization: Unleashing the potential of large reasoning model for personalized generation"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Reasoning-meets-personalization-Unleashing-the-potential-of-large-reasoning-model-for-personalized-generation
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2505.17571'

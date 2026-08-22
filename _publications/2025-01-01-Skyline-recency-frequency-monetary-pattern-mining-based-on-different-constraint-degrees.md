@@ -1,6 +1,7 @@
 ---
 title: "Skyline recency--frequency--monetary pattern mining based on different constraint degrees"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Skyline-recency-frequency-monetary-pattern-mining-based-on-different-constraint-degrees
 date: 2025-01-01
 venue: 'Engineering Applications of Artificial Intelligence'

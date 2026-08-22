@@ -1,6 +1,7 @@
 ---
 title: "Influential factors in customer satisfaction of transit services: Using crowdsourced data to capture the heterogeneity across individuals, space and time"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Influential-factors-in-customer-satisfaction-of-transit-services-Using-crowdsourced-data-to-capture-the-heterogeneity-across-individuals-space-and-time
 date: 2023-01-01
 venue: 'Transport Policy'

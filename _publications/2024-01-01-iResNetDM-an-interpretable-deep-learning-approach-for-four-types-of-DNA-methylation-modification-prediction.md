@@ -1,6 +1,7 @@
 ---
 title: "iResNetDM: an interpretable deep learning approach for four types of DNA methylation modification prediction"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-iResNetDM-an-interpretable-deep-learning-approach-for-four-types-of-DNA-methylation-modification-prediction
 date: 2024-01-01
 venue: 'Computational and Structural Biotechnology Journal'

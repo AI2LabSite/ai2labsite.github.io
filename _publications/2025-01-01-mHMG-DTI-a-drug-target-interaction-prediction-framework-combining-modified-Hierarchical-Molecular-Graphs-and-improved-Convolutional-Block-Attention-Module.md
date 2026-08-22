@@ -1,6 +1,7 @@
 ---
 title: "mHMG-DTI: a drug-target interaction prediction framework combining modified Hierarchical Molecular Graphs and improved Convolutional Block Attention Module"
 collection: publications
+category: proceedings
 permalink: /publication/2025-01-01-mHMG-DTI-a-drug-target-interaction-prediction-framework-combining-modified-Hierarchical-Molecular-Graphs-and-improved-Convolutional-Block-Attention-Module
 date: 2025-01-01
 venue: 'In the proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining'

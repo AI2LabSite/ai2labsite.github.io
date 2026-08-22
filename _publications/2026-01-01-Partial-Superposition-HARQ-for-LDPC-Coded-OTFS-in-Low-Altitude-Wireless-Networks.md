@@ -1,6 +1,7 @@
 ---
 title: "Partial-Superposition HARQ for LDPC-Coded OTFS in Low-Altitude Wireless Networks"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Partial-Superposition-HARQ-for-LDPC-Coded-OTFS-in-Low-Altitude-Wireless-Networks
 date: 2026-01-01
 venue: 'IEEE Transactions on Vehicular Technology'

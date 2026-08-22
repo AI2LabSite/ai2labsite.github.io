@@ -1,6 +1,7 @@
 ---
 title: "Speaker-Normalized Semantic Speech Tokens via Iterative S2U-T2U Refinement"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Speaker-Normalized-Semantic-Speech-Tokens-via-Iterative-S2U-T2U-Refinement
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2608.16235'

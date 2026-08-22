@@ -1,6 +1,7 @@
 ---
 title: "Multimodal emotion recognition via large model guided dialogue state tracking with dynamic graph refinement"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Multimodal-emotion-recognition-via-large-model-guided-dialogue-state-tracking-with-dynamic-graph-refinement
 date: 2026-01-01
 venue: 'Pattern Recognition'

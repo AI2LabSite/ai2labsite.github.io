@@ -1,6 +1,7 @@
 ---
 title: "1bit-merging: Dynamic quantized merging for large language models"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-1bit-merging-Dynamic-quantized-merging-for-large-language-models
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2502.10743'

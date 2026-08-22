@@ -1,6 +1,7 @@
 ---
 title: "Incremental Skyline Frequent-Utility Itemset Mining"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Incremental-Skyline-Frequent-Utility-Itemset-Mining
 date: 2026-01-01
 venue: 'Expert Systems'

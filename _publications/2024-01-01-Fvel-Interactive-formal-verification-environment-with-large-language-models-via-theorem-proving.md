@@ -1,6 +1,7 @@
 ---
 title: "Fvel: Interactive formal verification environment with large language models via theorem proving"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Fvel-Interactive-formal-verification-environment-with-large-language-models-via-theorem-proving
 date: 2024-01-01
 venue: 'Advances in Neural Information Processing Systems'

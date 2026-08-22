@@ -1,6 +1,7 @@
 ---
 title: "Regret vs. bandwidth trade-off for recommendation systems"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-01-01-Regret-vs-bandwidth-trade-off-for-recommendation-systems
 date: 2018-01-01
 venue: 'arXiv preprint arXiv:1810.06313'

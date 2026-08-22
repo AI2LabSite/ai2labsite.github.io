@@ -1,6 +1,7 @@
 ---
 title: "Can LLM substitute human labeling? A case study of fine-grained Chinese address entity recognition dataset for UAV delivery"
 collection: publications
+category: proceedings
 permalink: /publication/2024-01-01-Can-LLM-substitute-human-labeling-A-case-study-of-fine-grained-Chinese-address-entity-recognition-dataset-for-UAV-delivery
 date: 2024-01-01
 venue: 'In the proceedings of Companion Proceedings of the ACM Web Conference 2024'

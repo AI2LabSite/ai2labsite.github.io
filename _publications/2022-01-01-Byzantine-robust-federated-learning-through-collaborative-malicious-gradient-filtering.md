@@ -1,6 +1,7 @@
 ---
 title: "Byzantine-robust federated learning through collaborative malicious gradient filtering"
 collection: publications
+category: proceedings
 permalink: /publication/2022-01-01-Byzantine-robust-federated-learning-through-collaborative-malicious-gradient-filtering
 date: 2022-01-01
 venue: 'In the proceedings of 2022 IEEE 42nd International Conference on Distributed Computing Systems (ICDCS)'

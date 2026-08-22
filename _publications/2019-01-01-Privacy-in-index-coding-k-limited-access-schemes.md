@@ -1,6 +1,7 @@
 ---
 title: "Privacy in index coding: $ k $-limited-access schemes"
 collection: publications
+category: manuscripts
 permalink: /publication/2019-01-01-Privacy-in-index-coding-k-limited-access-schemes
 date: 2019-01-01
 venue: 'IEEE Transactions on Information Theory'

@@ -1,6 +1,7 @@
 ---
 title: "Semantic Communication Based on Entity Information Enhancement"
 collection: publications
+category: proceedings
 permalink: /publication/2023-01-01-Semantic-Communication-Based-on-Entity-Information-Enhancement
 date: 2023-01-01
 venue: 'In the proceedings of 2023 IEEE 24th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)'

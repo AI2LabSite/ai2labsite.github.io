@@ -1,6 +1,7 @@
 ---
 title: "Cooperative multi-model training for personalized federated learning over heterogeneous devices"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Cooperative-multi-model-training-for-personalized-federated-learning-over-heterogeneous-devices
 date: 2024-01-01
 venue: 'IEEE Journal of Selected Topics in Signal Processing'

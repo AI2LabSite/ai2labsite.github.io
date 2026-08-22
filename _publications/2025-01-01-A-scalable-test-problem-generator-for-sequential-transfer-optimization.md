@@ -1,6 +1,7 @@
 ---
 title: "A scalable test problem generator for sequential transfer optimization"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-A-scalable-test-problem-generator-for-sequential-transfer-optimization
 date: 2025-01-01
 venue: 'IEEE Transactions on Cybernetics'

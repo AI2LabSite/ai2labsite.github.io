@@ -1,6 +1,7 @@
 ---
 title: "Adaptive top-k in SGD for communication-efficient distributed learning in multi-robot collaboration"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Adaptive-top-k-in-SGD-for-communication-efficient-distributed-learning-in-multi-robot-collaboration
 date: 2024-01-01
 venue: 'IEEE Journal of Selected Topics in Signal Processing'

@@ -1,6 +1,7 @@
 ---
 title: "From Synthetic to Real: Unveiling the Power of Synthetic Data for Video Person Re-ID."
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-From-Synthetic-to-Real-Unveiling-the-Power-of-Synthetic-Data-for-Video-Person-Re-ID
 date: 2024-01-01
 venue: 'arXiv'

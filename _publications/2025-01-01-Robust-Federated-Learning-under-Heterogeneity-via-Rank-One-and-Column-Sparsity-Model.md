@@ -1,6 +1,7 @@
 ---
 title: "Robust Federated Learning under Heterogeneity via Rank-One and Column-Sparsity Model"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Robust-Federated-Learning-under-Heterogeneity-via-Rank-One-and-Column-Sparsity-Model
 date: 2025-01-01
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'

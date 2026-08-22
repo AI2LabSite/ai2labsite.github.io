@@ -1,6 +1,7 @@
 ---
 title: "Sens-Merging: Sensitivity-Guided Parameter Balancing for Merging Large Language Models"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Sens-Merging-Sensitivity-Guided-Parameter-Balancing-for-Merging-Large-Language-Models
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2502.12420'

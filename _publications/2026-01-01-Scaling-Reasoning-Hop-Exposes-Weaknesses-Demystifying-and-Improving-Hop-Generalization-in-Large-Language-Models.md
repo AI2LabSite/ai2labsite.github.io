@@ -1,6 +1,7 @@
 ---
 title: "Scaling Reasoning Hop Exposes Weaknesses: Demystifying and Improving Hop Generalization in Large Language Models"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Scaling-Reasoning-Hop-Exposes-Weaknesses-Demystifying-and-Improving-Hop-Generalization-in-Large-Language-Models
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2601.21214'

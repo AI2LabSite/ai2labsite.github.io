@@ -1,6 +1,7 @@
 ---
 title: "Data encoding for byzantine-resilient distributed optimization"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-01-Data-encoding-for-byzantine-resilient-distributed-optimization
 date: 2020-01-01
 venue: 'IEEE Transactions on Information Theory'

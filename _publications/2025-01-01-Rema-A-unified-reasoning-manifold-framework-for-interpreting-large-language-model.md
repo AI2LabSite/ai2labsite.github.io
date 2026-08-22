@@ -1,6 +1,7 @@
 ---
 title: "Rema: A unified reasoning manifold framework for interpreting large language model"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Rema-A-unified-reasoning-manifold-framework-for-interpreting-large-language-model
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2509.22518'

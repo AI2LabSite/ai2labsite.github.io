@@ -1,6 +1,7 @@
 ---
 title: "Enhancing deep multimedia recommendations using graph embeddings"
 collection: publications
+category: proceedings
 permalink: /publication/2020-01-01-Enhancing-deep-multimedia-recommendations-using-graph-embeddings
 date: 2020-01-01
 venue: 'In the proceedings of 2020 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR)'

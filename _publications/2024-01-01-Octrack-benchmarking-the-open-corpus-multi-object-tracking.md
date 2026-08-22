@@ -1,6 +1,7 @@
 ---
 title: "Octrack: benchmarking the open-corpus multi-object tracking"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Octrack-benchmarking-the-open-corpus-multi-object-tracking
 date: 2024-01-01
 venue: 'arXiv preprint arXiv:2407.14047'

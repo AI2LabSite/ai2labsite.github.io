@@ -1,6 +1,7 @@
 ---
 title: "Mope-clip: Structured pruning for efficient vision-language models with module-wise pruning error metric"
 collection: publications
+category: proceedings
 permalink: /publication/2024-01-01-Mope-clip-Structured-pruning-for-efficient-vision-language-models-with-module-wise-pruning-error-metric
 date: 2024-01-01
 venue: 'In the proceedings of Proceedings of the IEEE/CVF conference on computer vision and pattern recognition'

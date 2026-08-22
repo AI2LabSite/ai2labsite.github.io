@@ -1,6 +1,7 @@
 ---
 title: "Towards better understanding with uniformity and explicit regularization of embeddings in embedding-based neural topic models"
 collection: publications
+category: proceedings
 permalink: /publication/2022-01-01-Towards-better-understanding-with-uniformity-and-explicit-regularization-of-embeddings-in-embedding-based-neural-topic-models
 date: 2022-01-01
 venue: 'In the proceedings of 2022 international joint conference on neural networks (IJCNN)'

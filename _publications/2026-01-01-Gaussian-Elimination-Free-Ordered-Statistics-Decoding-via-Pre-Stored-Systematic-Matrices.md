@@ -1,6 +1,7 @@
 ---
 title: "Gaussian-Elimination-Free Ordered Statistics Decoding via Pre-Stored Systematic Matrices"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Gaussian-Elimination-Free-Ordered-Statistics-Decoding-via-Pre-Stored-Systematic-Matrices
 date: 2026-01-01
 venue: 'IEEE Transactions on Communications'

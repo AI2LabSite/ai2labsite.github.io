@@ -1,6 +1,7 @@
 ---
 title: "Demand side management in smart grids using a repeated game framework"
 collection: publications
+category: manuscripts
 permalink: /publication/2014-01-01-Demand-side-management-in-smart-grids-using-a-repeated-game-framework
 date: 2014-01-01
 venue: 'IEEE Journal on Selected Areas in Communications'

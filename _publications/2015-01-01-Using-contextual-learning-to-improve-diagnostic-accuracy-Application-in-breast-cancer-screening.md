@@ -1,6 +1,7 @@
 ---
 title: "Using contextual learning to improve diagnostic accuracy: Application in breast cancer screening"
 collection: publications
+category: manuscripts
 permalink: /publication/2015-01-01-Using-contextual-learning-to-improve-diagnostic-accuracy-Application-in-breast-cancer-screening
 date: 2015-01-01
 venue: 'IEEE journal of biomedical and health informatics'

@@ -1,6 +1,7 @@
 ---
 title: "Towards Privacy-Preserving Machine Translation At the Inference Stage: A New Task and Benchmark"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Towards-Privacy-Preserving-Machine-Translation-At-the-Inference-Stage-A-New-Task-and-Benchmark
 date: 2026-01-01
 venue: 'IEEE Journal of Selected Topics in Signal Processing'

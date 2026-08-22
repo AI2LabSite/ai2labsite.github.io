@@ -1,6 +1,7 @@
 ---
 title: "Integrated object detection and communication for synthetic aperture radar images"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Integrated-object-detection-and-communication-for-synthetic-aperture-radar-images
 date: 2024-01-01
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'

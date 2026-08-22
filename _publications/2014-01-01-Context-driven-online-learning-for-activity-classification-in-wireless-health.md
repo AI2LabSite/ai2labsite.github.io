@@ -1,6 +1,7 @@
 ---
 title: "Context-driven online learning for activity classification in wireless health"
 collection: publications
+category: proceedings
 permalink: /publication/2014-01-01-Context-driven-online-learning-for-activity-classification-in-wireless-health
 date: 2014-01-01
 venue: 'In the proceedings of 2014 IEEE Global Communications Conference'

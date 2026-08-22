@@ -1,6 +1,7 @@
 ---
 title: "Making recommendations bandwidth aware"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-01-01-Making-recommendations-bandwidth-aware
 date: 2018-01-01
 venue: 'IEEE Transactions on Information Theory'

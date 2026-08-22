@@ -1,6 +1,7 @@
 ---
 title: "Achieving privacy-preserving cross-silo anomaly detection using federated XGBoost"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Achieving-privacy-preserving-cross-silo-anomaly-detection-using-federated-XGBoost
 date: 2023-01-01
 venue: 'Journal of the Franklin Institute'

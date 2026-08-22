@@ -1,6 +1,7 @@
 ---
 title: "Video quality assessment for spatio-temporal resolution adaptive coding"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Video-quality-assessment-for-spatio-temporal-resolution-adaptive-coding
 date: 2024-01-01
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'

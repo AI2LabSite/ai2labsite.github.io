@@ -1,6 +1,7 @@
 ---
 title: "A Fast Algorithm for Finding the Roots of Polynomials over Finite Fields"
 collection: publications
+category: proceedings
 permalink: /publication/2023-01-01-A-Fast-Algorithm-for-Finding-the-Roots-of-Polynomials-over-Finite-Fields
 date: 2023-01-01
 venue: 'In the proceedings of 2023 International Conference on Wireless Communications and Signal Processing (WCSP)'

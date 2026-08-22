@@ -1,6 +1,7 @@
 ---
 title: "Bayesian Stackelberg game for risk-aware edge computation offloading"
 collection: publications
+category: proceedings
 permalink: /publication/2019-01-01-Bayesian-Stackelberg-game-for-risk-aware-edge-computation-offloading
 date: 2019-01-01
 venue: 'In the proceedings of Proceedings of the 6th ACM Workshop on Moving Target Defense'

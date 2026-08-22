@@ -1,6 +1,7 @@
 ---
 title: "A maximum-likelihood decoding of bch codes"
 collection: publications
+category: proceedings
 permalink: /publication/2025-01-01-A-maximum-likelihood-decoding-of-bch-codes
 date: 2025-01-01
 venue: 'In the proceedings of 2025 Asia Pacific Workshop on Data Science and Information Theory (APWDSIT)'

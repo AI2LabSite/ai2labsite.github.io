@@ -1,6 +1,7 @@
 ---
 title: "Multi-Matrix Representative Ordered Statistics Decoding"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Multi-Matrix-Representative-Ordered-Statistics-Decoding
 date: 2026-01-01
 venue: 'Journal of Electronics &amp; Information Technology'

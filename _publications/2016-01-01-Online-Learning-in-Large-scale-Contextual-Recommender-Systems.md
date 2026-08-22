@@ -1,6 +1,7 @@
 ---
 title: "Online Learning in Large-scale Contextual Recommender Systems"
 collection: publications
+category: manuscripts
 permalink: /publication/2016-01-01-Online-Learning-in-Large-scale-Contextual-Recommender-Systems
 date: 2016-01-01
 venue: 'IEEE Transactions on Services Computing'

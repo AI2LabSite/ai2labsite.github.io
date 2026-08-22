@@ -1,6 +1,7 @@
 ---
 title: "Emma: An accurate, efficient, and multi-modality strategy for autonomous vehicle angle prediction"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Emma-An-accurate-efficient-and-multi-modality-strategy-for-autonomous-vehicle-angle-prediction
 date: 2023-01-01
 venue: 'Intelligent and Converged Networks'

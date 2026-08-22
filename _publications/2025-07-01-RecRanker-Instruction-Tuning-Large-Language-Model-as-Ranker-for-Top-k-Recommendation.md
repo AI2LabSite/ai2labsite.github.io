@@ -1,6 +1,7 @@
 ---
 title: "RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-07-01-RecRanker-Instruction-Tuning-Large-Language-Model-as-Ranker-for-Top-k-Recommendation
 date: 2025-07-01
 venue: 'ACM Transactions on Information Systems'

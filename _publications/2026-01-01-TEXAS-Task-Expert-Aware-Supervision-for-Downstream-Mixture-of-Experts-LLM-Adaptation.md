@@ -1,6 +1,7 @@
 ---
 title: "TEXAS: Task-Expert-Aware Supervision for Downstream Mixture-of-Experts LLM Adaptation"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-TEXAS-Task-Expert-Aware-Supervision-for-Downstream-Mixture-of-Experts-LLM-Adaptation
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2608.06396'

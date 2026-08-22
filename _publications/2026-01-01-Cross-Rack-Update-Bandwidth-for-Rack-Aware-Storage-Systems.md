@@ -1,6 +1,7 @@
 ---
 title: "Cross-Rack Update Bandwidth for Rack-Aware Storage Systems"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Cross-Rack-Update-Bandwidth-for-Rack-Aware-Storage-Systems
 date: 2026-01-01
 venue: 'IEEE Transactions on Communications'

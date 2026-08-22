@@ -1,6 +1,7 @@
 ---
 title: "Solution transfer in evolutionary optimization: An empirical study on sequential transfer"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Solution-transfer-in-evolutionary-optimization-An-empirical-study-on-sequential-transfer
 date: 2023-01-01
 venue: 'IEEE Transactions on Evolutionary Computation'

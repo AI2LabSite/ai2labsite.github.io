@@ -1,6 +1,7 @@
 ---
 title: "DSA-Tokenizer: Disentangled Semantic-Acoustic Tokenization via Flow Matching-based Hierarchical Fusion"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-DSA-Tokenizer-Disentangled-Semantic-Acoustic-Tokenization-via-Flow-Matching-based-Hierarchical-Fusion
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2601.09239'

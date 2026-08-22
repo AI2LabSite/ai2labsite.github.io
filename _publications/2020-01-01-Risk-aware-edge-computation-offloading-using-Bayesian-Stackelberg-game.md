@@ -1,6 +1,7 @@
 ---
 title: "Risk-aware edge computation offloading using Bayesian Stackelberg game"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-01-Risk-aware-edge-computation-offloading-using-Bayesian-Stackelberg-game
 date: 2020-01-01
 venue: 'IEEE Transactions on Network and Service Management'

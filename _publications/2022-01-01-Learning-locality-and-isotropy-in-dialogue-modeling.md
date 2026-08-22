@@ -1,6 +1,7 @@
 ---
 title: "Learning locality and isotropy in dialogue modeling"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Learning-locality-and-isotropy-in-dialogue-modeling
 date: 2022-01-01
 venue: 'arXiv preprint arXiv:2205.14583'

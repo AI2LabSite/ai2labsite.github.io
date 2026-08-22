@@ -1,6 +1,7 @@
 ---
 title: "A binary randomized coding scheme for pliable index coding with multiple requests"
 collection: publications
+category: proceedings
 permalink: /publication/2018-01-01-A-binary-randomized-coding-scheme-for-pliable-index-coding-with-multiple-requests
 date: 2018-01-01
 venue: 'In the proceedings of 2018 IEEE 10th International Symposium on Turbo Codes &amp; Iterative Information Processing (ISTC)'

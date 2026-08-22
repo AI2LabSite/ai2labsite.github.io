@@ -1,6 +1,7 @@
 ---
 title: "Dual-perspective hypergraph learning network for multimodal entity and relation extraction"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Dual-perspective-hypergraph-learning-network-for-multimodal-entity-and-relation-extraction
 date: 2025-01-01
 venue: 'Expert Systems with Applications'

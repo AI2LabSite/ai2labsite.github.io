@@ -1,6 +1,7 @@
 ---
 title: "Triple-fault-tolerant binary mds array codes with lower encoding complexity"
 collection: publications
+category: proceedings
 permalink: /publication/2023-01-01-Triple-fault-tolerant-binary-mds-array-codes-with-lower-encoding-complexity
 date: 2023-01-01
 venue: 'In the proceedings of 2023 XVIII International Symposium Problems of Redundancy in Information and Control Systems (REDUNDANCY)'

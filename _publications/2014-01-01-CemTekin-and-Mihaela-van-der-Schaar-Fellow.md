@@ -1,6 +1,7 @@
 ---
 title: "CemTekin, and Mihaela van der Schaar, Fellow,“"
 collection: publications
+category: manuscripts
 permalink: /publication/2014-01-01-CemTekin-and-Mihaela-van-der-Schaar-Fellow
 date: 2014-01-01
 venue: 'Online Learning in Largescale Contextual Recommender Systems” IEEE'

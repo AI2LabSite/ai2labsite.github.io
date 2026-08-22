@@ -1,6 +1,7 @@
 ---
 title: "Rethinking the one-shot object detection: Cross-domain object search"
 collection: publications
+category: proceedings
 permalink: /publication/2024-01-01-Rethinking-the-one-shot-object-detection-Cross-domain-object-search
 date: 2024-01-01
 venue: 'In the proceedings of Proceedings of the 32nd ACM International Conference on Multimedia'

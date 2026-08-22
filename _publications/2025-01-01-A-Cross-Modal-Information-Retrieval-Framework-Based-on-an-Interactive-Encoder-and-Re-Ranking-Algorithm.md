@@ -1,6 +1,7 @@
 ---
 title: "A Cross-Modal Information Retrieval Framework Based on an Interactive Encoder and Re-Ranking Algorithm"
 collection: publications
+category: proceedings
 permalink: /publication/2025-01-01-A-Cross-Modal-Information-Retrieval-Framework-Based-on-an-Interactive-Encoder-and-Re-Ranking-Algorithm
 date: 2025-01-01
 venue: 'In the proceedings of 2025 IEEE International Conference on Big Data (BigData)'

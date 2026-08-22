@@ -1,6 +1,7 @@
 ---
 title: "A normalized LLR soft information demapping method in DTMB system"
 collection: publications
+category: proceedings
 permalink: /publication/2008-01-01-A-normalized-LLR-soft-information-demapping-method-in-DTMB-system
 date: 2008-01-01
 venue: 'In the proceedings of 2008 11th IEEE Singapore International Conference on Communication Systems'

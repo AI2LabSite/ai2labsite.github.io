@@ -1,6 +1,7 @@
 ---
 title: "Deep reinforcement learning based residential demand side management with edge computing"
 collection: publications
+category: proceedings
 permalink: /publication/2019-01-01-Deep-reinforcement-learning-based-residential-demand-side-management-with-edge-computing
 date: 2019-01-01
 venue: 'In the proceedings of 2019 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)'

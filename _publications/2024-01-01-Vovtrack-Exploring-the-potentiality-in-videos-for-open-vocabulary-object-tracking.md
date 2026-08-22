@@ -1,6 +1,7 @@
 ---
 title: "Vovtrack: Exploring the potentiality in videos for open-vocabulary object tracking"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Vovtrack-Exploring-the-potentiality-in-videos-for-open-vocabulary-object-tracking
 date: 2024-01-01
 venue: 'arXiv preprint arXiv:2410.08529'

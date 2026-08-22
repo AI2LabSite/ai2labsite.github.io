@@ -1,6 +1,7 @@
 ---
 title: "On GRAND-Assisted Vector Random Linear Network Coding in Wireless Broadcasts"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-On-GRAND-Assisted-Vector-Random-Linear-Network-Coding-in-Wireless-Broadcasts
 date: 2026-01-01
 venue: 'Entropy'

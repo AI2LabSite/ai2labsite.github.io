@@ -1,6 +1,7 @@
 ---
 title: "Improved Quantization Strategies for Managing Heavy-tailed Gradients in Distributed Learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Improved-Quantization-Strategies-for-Managing-Heavy-tailed-Gradients-in-Distributed-Learning
 date: 2024-01-01
 venue: 'arXiv preprint arXiv:2402.01798'

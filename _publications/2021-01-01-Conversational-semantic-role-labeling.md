@@ -1,6 +1,7 @@
 ---
 title: "Conversational semantic role labeling"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-01-Conversational-semantic-role-labeling
 date: 2021-01-01
 venue: 'IEEE/ACM Transactions on Audio, Speech, and Language Processing'

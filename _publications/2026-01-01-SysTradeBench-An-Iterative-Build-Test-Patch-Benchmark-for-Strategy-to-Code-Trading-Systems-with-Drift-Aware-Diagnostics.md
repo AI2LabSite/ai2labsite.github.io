@@ -1,6 +1,7 @@
 ---
 title: "SysTradeBench: An Iterative Build-Test-Patch Benchmark for Strategy-to-Code Trading Systems with Drift-Aware Diagnostics"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-SysTradeBench-An-Iterative-Build-Test-Patch-Benchmark-for-Strategy-to-Code-Trading-Systems-with-Drift-Aware-Diagnostics
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2604.04812'

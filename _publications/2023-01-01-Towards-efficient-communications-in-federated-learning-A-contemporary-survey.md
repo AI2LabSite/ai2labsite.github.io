@@ -1,6 +1,7 @@
 ---
 title: "Towards efficient communications in federated learning: A contemporary survey"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Towards-efficient-communications-in-federated-learning-A-contemporary-survey
 date: 2023-01-01
 venue: 'Journal of the Franklin Institute'

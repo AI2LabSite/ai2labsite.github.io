@@ -1,6 +1,7 @@
 ---
 title: "Communication-Efficient and Privacy-Adaptable Mechanism for Federated Learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Communication-Efficient-and-Privacy-Adaptable-Mechanism-for-Federated-Learning
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2501.12046'

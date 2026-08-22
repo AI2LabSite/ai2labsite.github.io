@@ -1,6 +1,7 @@
 ---
 title: "Distributed computing trade-offs with random connectivity"
 collection: publications
+category: proceedings
 permalink: /publication/2018-01-01-Distributed-computing-trade-offs-with-random-connectivity
 date: 2018-01-01
 venue: 'In the proceedings of 2018 IEEE International Symposium on Information Theory (ISIT)'

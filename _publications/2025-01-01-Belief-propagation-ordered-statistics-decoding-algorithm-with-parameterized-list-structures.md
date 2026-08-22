@@ -1,6 +1,7 @@
 ---
 title: "Belief propagation-ordered statistics decoding algorithm with parameterized list structures"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Belief-propagation-ordered-statistics-decoding-algorithm-with-parameterized-list-structures
 date: 2025-01-01
 venue: 'Journal of Electronics &amp; Information Technology'

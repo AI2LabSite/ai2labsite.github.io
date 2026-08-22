@@ -1,6 +1,7 @@
 ---
 title: "Memo-SQL: Structured Decomposition and Experience-Driven Self-Correction for Training-Free NL2SQL"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Memo-SQL-Structured-Decomposition-and-Experience-Driven-Self-Correction-for-Training-Free-NL2SQL
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2601.10011'

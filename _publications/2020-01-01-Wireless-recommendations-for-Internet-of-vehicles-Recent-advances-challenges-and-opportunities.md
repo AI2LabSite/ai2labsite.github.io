@@ -1,6 +1,7 @@
 ---
 title: "Wireless recommendations for Internet of vehicles: Recent advances, challenges, and opportunities"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-01-Wireless-recommendations-for-Internet-of-vehicles-Recent-advances-challenges-and-opportunities
 date: 2020-01-01
 venue: 'Intelligent and Converged Networks'

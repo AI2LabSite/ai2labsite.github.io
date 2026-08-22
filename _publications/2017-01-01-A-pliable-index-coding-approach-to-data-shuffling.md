@@ -1,6 +1,7 @@
 ---
 title: "A pliable index coding approach to data shuffling"
 collection: publications
+category: proceedings
 permalink: /publication/2017-01-01-A-pliable-index-coding-approach-to-data-shuffling
 date: 2017-01-01
 venue: 'In the proceedings of Information Theory (ISIT), 2017 IEEE International Symposium on'

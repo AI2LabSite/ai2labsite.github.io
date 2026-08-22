@@ -1,6 +1,7 @@
 ---
 title: "Power and Interference Management for VLC Ultra-Dense Networks: A Deep Reinforcement Learning Driven Method"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-Power-and-Interference-Management-for-VLC-Ultra-Dense-Networks-A-Deep-Reinforcement-Learning-Driven-Method
 date: 2026-01-01
 venue: 'IEEE Transactions on Vehicular Technology'

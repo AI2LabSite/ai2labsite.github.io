@@ -1,6 +1,7 @@
 ---
 title: "Vcsum: A versatile chinese meeting summarization dataset"
 collection: publications
+category: proceedings
 permalink: /publication/2023-01-01-Vcsum-A-versatile-chinese-meeting-summarization-dataset
 date: 2023-01-01
 venue: 'In the proceedings of Findings of the Association for Computational Linguistics: ACL 2023'

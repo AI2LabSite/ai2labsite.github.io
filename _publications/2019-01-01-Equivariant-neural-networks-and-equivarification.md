@@ -1,6 +1,7 @@
 ---
 title: "Equivariant neural networks and equivarification"
 collection: publications
+category: manuscripts
 permalink: /publication/2019-01-01-Equivariant-neural-networks-and-equivarification
 date: 2019-01-01
 venue: 'arXiv preprint arXiv:1906.07172'

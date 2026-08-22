@@ -1,6 +1,7 @@
 ---
 title: "A self-modified hypergraph neural network for multimodal relation extraction"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-A-self-modified-hypergraph-neural-network-for-multimodal-relation-extraction
 date: 2026-01-01
 venue: 'Information Processing &amp; Management'

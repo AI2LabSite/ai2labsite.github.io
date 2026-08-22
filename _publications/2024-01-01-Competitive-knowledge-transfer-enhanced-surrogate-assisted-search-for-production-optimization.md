@@ -1,6 +1,7 @@
 ---
 title: "Competitive knowledge transfer--enhanced surrogate-assisted search for production optimization"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Competitive-knowledge-transfer-enhanced-surrogate-assisted-search-for-production-optimization
 date: 2024-01-01
 venue: 'SPE Journal'

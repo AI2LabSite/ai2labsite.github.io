@@ -1,6 +1,7 @@
 ---
 title: "From Long News to Accurate Forecast: Importance-Aware Fusion and PRM-Guided Reflection for Time Series Forecasting"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-From-Long-News-to-Accurate-Forecast-Importance-Aware-Fusion-and-PRM-Guided-Reflection-for-Time-Series-Forecasting
 date: 2026-01-01
 venue: 'arXiv preprint arXiv:2606.03097'

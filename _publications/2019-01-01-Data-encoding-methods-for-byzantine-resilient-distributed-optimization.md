@@ -1,6 +1,7 @@
 ---
 title: "Data encoding methods for byzantine-resilient distributed optimization"
 collection: publications
+category: proceedings
 permalink: /publication/2019-01-01-Data-encoding-methods-for-byzantine-resilient-distributed-optimization
 date: 2019-01-01
 venue: 'In the proceedings of 2019 IEEE international symposium on information theory (ISIT)'

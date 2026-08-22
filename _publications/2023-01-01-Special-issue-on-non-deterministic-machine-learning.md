@@ -1,6 +1,7 @@
 ---
 title: "Special issue on non-deterministic machine learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Special-issue-on-non-deterministic-machine-learning
 date: 2023-01-01
 venue: 'Journal of the Franklin Institute'

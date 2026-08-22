@@ -1,6 +1,7 @@
 ---
 title: "Mitigating the language mismatch and repetition issues in llm-based machine translation via model editing"
 collection: publications
+category: proceedings
 permalink: /publication/2024-01-01-Mitigating-the-language-mismatch-and-repetition-issues-in-llm-based-machine-translation-via-model-editing
 date: 2024-01-01
 venue: 'In the proceedings of Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing'

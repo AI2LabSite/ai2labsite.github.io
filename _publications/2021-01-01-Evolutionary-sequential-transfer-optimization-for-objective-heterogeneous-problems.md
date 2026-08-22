@@ -1,6 +1,7 @@
 ---
 title: "Evolutionary sequential transfer optimization for objective-heterogeneous problems"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-01-Evolutionary-sequential-transfer-optimization-for-objective-heterogeneous-problems
 date: 2021-01-01
 venue: 'IEEE Transactions on Evolutionary Computation'

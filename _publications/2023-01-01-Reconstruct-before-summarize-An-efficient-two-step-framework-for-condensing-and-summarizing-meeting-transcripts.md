@@ -1,6 +1,7 @@
 ---
 title: "Reconstruct before summarize: An efficient two-step framework for condensing and summarizing meeting transcripts"
 collection: publications
+category: proceedings
 permalink: /publication/2023-01-01-Reconstruct-before-summarize-An-efficient-two-step-framework-for-condensing-and-summarizing-meeting-transcripts
 date: 2023-01-01
 venue: 'In the proceedings of Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing'

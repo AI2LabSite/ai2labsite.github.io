@@ -1,6 +1,7 @@
 ---
 title: "Massive Random Access Control for VLC: A Reinforcement Learning Driven Approach"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Massive-Random-Access-Control-for-VLC-A-Reinforcement-Learning-Driven-Approach
 date: 2025-01-01
 venue: 'IEEE Photonics Technology Letters'

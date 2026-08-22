@@ -1,6 +1,7 @@
 ---
 title: "A deterministic algorithm for pliable index coding"
 collection: publications
+category: manuscripts
 permalink: /publication/2016-01-01-A-deterministic-algorithm-for-pliable-index-coding
 date: 2016-01-01
 venue: 'arXiv preprint arXiv:1601.05516'

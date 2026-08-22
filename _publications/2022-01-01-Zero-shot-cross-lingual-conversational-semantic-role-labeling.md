@@ -1,6 +1,7 @@
 ---
 title: "Zero-shot cross-lingual conversational semantic role labeling"
 collection: publications
+category: proceedings
 permalink: /publication/2022-01-01-Zero-shot-cross-lingual-conversational-semantic-role-labeling
 date: 2022-01-01
 venue: 'In the proceedings of Findings of the Association for Computational Linguistics: NAACL 2022'

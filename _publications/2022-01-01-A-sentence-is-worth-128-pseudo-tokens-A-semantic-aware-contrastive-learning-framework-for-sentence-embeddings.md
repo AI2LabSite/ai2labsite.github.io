@@ -1,6 +1,7 @@
 ---
 title: "A sentence is worth 128 pseudo tokens: A semantic-aware contrastive learning framework for sentence embeddings"
 collection: publications
+category: proceedings
 permalink: /publication/2022-01-01-A-sentence-is-worth-128-pseudo-tokens-A-semantic-aware-contrastive-learning-framework-for-sentence-embeddings
 date: 2022-01-01
 venue: 'In the proceedings of Findings of the Association for Computational Linguistics: ACL 2022'

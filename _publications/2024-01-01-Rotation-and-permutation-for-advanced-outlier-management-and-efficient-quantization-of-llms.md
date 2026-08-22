@@ -1,6 +1,7 @@
 ---
 title: "Rotation and permutation for advanced outlier management and efficient quantization of llms"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Rotation-and-permutation-for-advanced-outlier-management-and-efficient-quantization-of-llms
 date: 2024-01-01
 venue: 'arXiv preprint arXiv:2406.01721'

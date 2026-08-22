@@ -1,6 +1,7 @@
 ---
 title: "Optishear: Towards efficient and adaptive pruning of large language models via evolutionary optimization"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Optishear-Towards-efficient-and-adaptive-pruning-of-large-language-models-via-evolutionary-optimization
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2502.10735'

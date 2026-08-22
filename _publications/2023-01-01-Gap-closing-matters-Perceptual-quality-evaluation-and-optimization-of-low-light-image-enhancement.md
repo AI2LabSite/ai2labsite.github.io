@@ -1,6 +1,7 @@
 ---
 title: "Gap-closing matters: Perceptual quality evaluation and optimization of low-light image enhancement"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Gap-closing-matters-Perceptual-quality-evaluation-and-optimization-of-low-light-image-enhancement
 date: 2023-01-01
 venue: 'IEEE Transactions on Multimedia'

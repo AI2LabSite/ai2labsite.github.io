@@ -1,6 +1,7 @@
 ---
 title: "VOVTrack: exploring the potentiality in raw videos for open-vocabulary multi-object tracking"
 collection: publications
+category: proceedings
 permalink: /publication/2025-01-01-VOVTrack-exploring-the-potentiality-in-raw-videos-for-open-vocabulary-multi-object-tracking
 date: 2025-01-01
 venue: 'In the proceedings of 2025 IEEE/CVF International Conference on Computer Vision (ICCV)'

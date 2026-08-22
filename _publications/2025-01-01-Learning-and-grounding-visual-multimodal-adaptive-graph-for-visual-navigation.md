@@ -1,6 +1,7 @@
 ---
 title: "Learning and grounding visual multimodal adaptive graph for visual navigation"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Learning-and-grounding-visual-multimodal-adaptive-graph-for-visual-navigation
 date: 2025-01-01
 venue: 'Information Fusion'

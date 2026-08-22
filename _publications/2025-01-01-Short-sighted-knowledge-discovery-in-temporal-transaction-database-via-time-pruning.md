@@ -1,6 +1,7 @@
 ---
 title: "Short-sighted knowledge discovery in temporal transaction database via time pruning"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Short-sighted-knowledge-discovery-in-temporal-transaction-database-via-time-pruning
 date: 2025-01-01
 venue: 'Knowledge-Based Systems'

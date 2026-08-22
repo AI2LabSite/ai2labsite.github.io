@@ -1,6 +1,7 @@
 ---
 title: "Scheduling to minimize age of information in multi-state time-varying networks with power constraints"
 collection: publications
+category: proceedings
 permalink: /publication/2019-01-01-Scheduling-to-minimize-age-of-information-in-multi-state-time-varying-networks-with-power-constraints
 date: 2019-01-01
 venue: 'In the proceedings of 2019 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton)'

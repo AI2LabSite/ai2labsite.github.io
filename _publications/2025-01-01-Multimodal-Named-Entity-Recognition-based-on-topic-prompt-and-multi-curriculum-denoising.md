@@ -1,6 +1,7 @@
 ---
 title: "Multimodal Named Entity Recognition based on topic prompt and multi-curriculum denoising"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Multimodal-Named-Entity-Recognition-based-on-topic-prompt-and-multi-curriculum-denoising
 date: 2025-01-01
 venue: 'Information Fusion'

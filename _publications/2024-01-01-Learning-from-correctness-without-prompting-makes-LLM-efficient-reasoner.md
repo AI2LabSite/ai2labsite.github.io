@@ -1,6 +1,7 @@
 ---
 title: "Learning from correctness without prompting makes LLM efficient reasoner"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Learning-from-correctness-without-prompting-makes-LLM-efficient-reasoner
 date: 2024-01-01
 venue: 'arXiv preprint arXiv:2403.19094'

@@ -1,6 +1,7 @@
 ---
 title: "Lightweight instantly decodable network coding: Performance analysis and algorithm design"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Lightweight-instantly-decodable-network-coding-Performance-analysis-and-algorithm-design
 date: 2024-01-01
 venue: 'IEEE Transactions on Communications'

@@ -1,6 +1,7 @@
 ---
 title: "JMUCOD: joint maritime-underwater cross-domain object detection algorithm"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-JMUCOD-joint-maritime-underwater-cross-domain-object-detection-algorithm
 date: 2025-01-01
 venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'

@@ -1,6 +1,7 @@
 ---
 title: "Integrating future smart home operation platform with demand side management via deep reinforcement learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-01-Integrating-future-smart-home-operation-platform-with-demand-side-management-via-deep-reinforcement-learning
 date: 2021-01-01
 venue: 'IEEE Transactions on Green Communications and Networking'

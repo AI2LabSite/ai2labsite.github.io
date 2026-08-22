@@ -1,6 +1,7 @@
 ---
 title: "Improving long-tail item recommendation with graph augmentation"
 collection: publications
+category: proceedings
 permalink: /publication/2023-01-01-Improving-long-tail-item-recommendation-with-graph-augmentation
 date: 2023-01-01
 venue: 'In the proceedings of Proceedings of the 32nd ACM international conference on information and knowledge management'

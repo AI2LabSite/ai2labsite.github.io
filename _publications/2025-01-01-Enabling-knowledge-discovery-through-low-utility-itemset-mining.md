@@ -1,6 +1,7 @@
 ---
 title: "Enabling knowledge discovery through low utility itemset mining"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-Enabling-knowledge-discovery-through-low-utility-itemset-mining
 date: 2025-01-01
 venue: 'Expert Systems with Applications'

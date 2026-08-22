@@ -1,6 +1,7 @@
 ---
 title: "Source free semi-supervised transfer learning for diagnosis of mental disorders on fMRI scans"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Source-free-semi-supervised-transfer-learning-for-diagnosis-of-mental-disorders-on-fMRI-scans
 date: 2023-01-01
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'

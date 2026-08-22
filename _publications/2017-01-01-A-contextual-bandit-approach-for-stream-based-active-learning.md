@@ -1,6 +1,7 @@
 ---
 title: "A contextual bandit approach for stream-based active learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-01-01-A-contextual-bandit-approach-for-stream-based-active-learning
 date: 2017-01-01
 venue: 'arXiv preprint arXiv:1701.06725'
