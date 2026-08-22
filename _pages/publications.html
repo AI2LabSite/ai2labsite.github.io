@@ -16,7 +16,18 @@ author_profile: true
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
-    {% for post in sorted_pubs %}    <!--{% for post in site.publications reversed %}-->
+    
+    <!-- 先计算该分类下的论文总数 -->
+    {% assign total_count = 0 %}
+    {% for post in sorted_pubs %}
+      {% if post.category == category[0] %}
+        {% assign total_count = total_count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    
+    <!-- 从总数开始递减编号 -->
+    {% assign counter = total_count %}
+    {% for post in sorted_pubs %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
@@ -24,15 +35,16 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% include archive-single.html with counter=counter %}
+      {% assign counter = counter | minus: 1 %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
-  {% for post in sorted_pubs %}    <!--{% for post in site.publications reversed %}-->
-    {% include archive-single.html %}
+  {% assign total_count = site.publications | size %}
+  {% assign counter = total_count %}
+  {% for post in sorted_pubs %}
+    {% include archive-single.html with counter=counter %}
+    {% assign counter = counter | minus: 1 %}
   {% endfor %}
 {% endif %}
-
-
-
