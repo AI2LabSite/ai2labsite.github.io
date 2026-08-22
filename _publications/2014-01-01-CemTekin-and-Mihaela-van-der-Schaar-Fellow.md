@@ -6,7 +6,7 @@ authors:
   - "Song, Linqi"
   - "Tekin, Cem"
   - "van der Schaar, Mihaela"
-venue: 'IEEE Transactions on Services Computing'
+venue: "IEEE Transactions on Services Computing"
 year: 2014
 date: 2014-01-01
 permalink: /publication/2014-01-01-online-learning-recommender-systems
